@@ -4,4 +4,8 @@ body{
 
 h1 {
   color: black;
+  background: #B0D78E;
+  padding: 80px;
+  text-align: center;
+  font-size: 60px;
 }
