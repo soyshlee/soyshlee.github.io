@@ -1,0 +1,4216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Hello I'm... (Copy)</title>
+    <link>https://fiddle-guppy-24bt.squarespace.com</link>
+    <pubDate>Sat, 13 Jan 2024 15:35:26 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-1864505611</wp:author_id>
+      <wp:author_login>kycbn4d4h8@privaterelay.appleid.com</wp:author_login>
+      <wp:author_email>kycbn4d4h8@privaterelay.appleid.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Ash G]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Ash]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[G]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sat, 13 Jan 2024 15:35:33 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65a2adc5fd0e202b2d955108">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    light'
+  
+  data-section-id="65a2adc5fd0e202b2d95510c"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;generative&quot;,
+  &quot;generative&quot;: {
+    &quot;type&quot;: &quot;images&quot;,
+    &quot;seed&quot;: 0,
+    &quot;count&quot;: 0,
+    &quot;size&quot;: 0,
+    &quot;speed&quot;: 0,
+    &quot;backgroundColor&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;accent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;invertColors&quot;: false,
+    &quot;noiseIntensity&quot;: 0,
+    &quot;noiseScale&quot;: 0,
+    &quot;distortionScaleX&quot;: 0,
+    &quot;distortionScaleY&quot;: 0,
+    &quot;distortionSpeed&quot;: 0,
+    &quot;distortionIntensity&quot;: 0,
+    &quot;lightIntensity&quot;: 0,
+    &quot;lightX&quot;: 0,
+    &quot;bevelRotation&quot;: 0,
+    &quot;bevelSize&quot;: 0,
+    &quot;bevelStrength&quot;: 0,
+    &quot;complexity&quot;: 0,
+    &quot;cutoff&quot;: 0,
+    &quot;isBevelEnabled&quot;: false,
+    &quot;isBlurEnabled&quot;: false,
+    &quot;scale&quot;: 0,
+    &quot;speedMorph&quot;: 0,
+    &quot;speedTravel&quot;: 0,
+    &quot;steps&quot;: 0,
+    &quot;travelDirection&quot;: 0,
+    &quot;noiseBias&quot;: 0,
+    &quot;animateNoise&quot;: false,
+    &quot;distortionComplexity&quot;: 0,
+    &quot;distortionDirection&quot;: 0,
+    &quot;distortionMorphSpeed&quot;: 0,
+    &quot;distortionSeed&quot;: 0,
+    &quot;distortionSmoothness&quot;: 0,
+    &quot;linearGradientStartColorDistance&quot;: 0,
+    &quot;linearGradientEndColorDistance&quot;: 0,
+    &quot;linearGradientAngle&quot;: 0,
+    &quot;linearGradientAngleMotion&quot;: 0,
+    &quot;linearGradientRepeat&quot;: 0,
+    &quot;radialGradientRadius&quot;: 0,
+    &quot;radialGradientPositionX&quot;: 0,
+    &quot;radialGradientPositionY&quot;: 0,
+    &quot;radialGradientFollowCursor&quot;: false,
+    &quot;radialGradientFollowSpeed&quot;: 0,
+    &quot;presetImageKey&quot;: &quot;brush3&quot;,
+    &quot;imageTint&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;lightAccent&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;imageScale&quot;: 25,
+    &quot;imageCount&quot;: 27,
+    &quot;patternEnabled&quot;: false,
+    &quot;patternColor&quot;: {
+      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+      &quot;sitePaletteColor&quot;: {
+        &quot;id&quot;: &quot;black&quot;,
+        &quot;alpha&quot;: 1.0
+      }
+    },
+    &quot;patternSize&quot;: 16,
+    &quot;patternImageKey&quot;: &quot;&quot;,
+    &quot;patternOffsetX&quot;: 0,
+    &quot;patternOffsetY&quot;: 0,
+    &quot;patternSpaceX&quot;: 1,
+    &quot;patternSpaceY&quot;: 1,
+    &quot;waveEnabled&quot;: true,
+    &quot;waveSpeed&quot;: 68,
+    &quot;waveComplexity&quot;: 12,
+    &quot;waveDepth&quot;: 24,
+    &quot;waveShadowDepth&quot;: 8,
+    &quot;boxSize&quot;: 0.0,
+    &quot;scaleX&quot;: 0,
+    &quot;scaleY&quot;: 0,
+    &quot;scaleZ&quot;: 0,
+    &quot;isMorphEnabled&quot;: false,
+    &quot;lightY&quot;: 0,
+    &quot;lightZ&quot;: 0,
+    &quot;noiseRange&quot;: 0,
+    &quot;positionFactor&quot;: 0,
+    &quot;scaleFactor&quot;: 0,
+    &quot;colorFactor&quot;: 0,
+    &quot;sizeVariance&quot;: 0,
+    &quot;wobble&quot;: 0,
+    &quot;morph&quot;: 0,
+    &quot;scrollMovement&quot;: 0,
+    &quot;patternScaleX&quot;: 0,
+    &quot;patternScaleY&quot;: 0,
+    &quot;patternPowerX&quot;: 0,
+    &quot;patternPowerY&quot;: 0,
+    &quot;patternAmount&quot;: 0,
+    &quot;surfaceHeight&quot;: 0,
+    &quot;colorStop1&quot;: 0,
+    &quot;colorStop2&quot;: 0,
+    &quot;colorStop3&quot;: 0,
+    &quot;colorStop4&quot;: 0,
+    &quot;gradientDistortionX&quot;: 0,
+    &quot;gradientDistortionY&quot;: 0,
+    &quot;curveX&quot;: 0,
+    &quot;curveY&quot;: 0,
+    &quot;curveFunnel&quot;: 0,
+    &quot;fogIntensity&quot;: 0,
+    &quot;repeat&quot;: 0,
+    &quot;rotation&quot;: 0,
+    &quot;rotationSpeed&quot;: 0,
+    &quot;blur&quot;: 0,
+    &quot;complexityY&quot;: 0,
+    &quot;complexityZ&quot;: 0,
+    &quot;amplitudeY&quot;: 0,
+    &quot;amplitudeZ&quot;: 0,
+    &quot;offset&quot;: 0,
+    &quot;lightAngle&quot;: 0,
+    &quot;alpha&quot;: 0
+  }
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImages"
+  >
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-65a2adc5fd0e202b2d95510b {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(5,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65a2adc5fd0e202b2d95510b {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65a2adc5fd0e202b2d95510b {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(11,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-d1552b4b524516536358 {
+    grid-area: 1/2/6/10;
+    z-index: 2;
+  }
+
+  .fe-block-d1552b4b524516536358 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-d1552b4b524516536358 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d1552b4b524516536358 {
+      grid-area: 3/6/9/22;
+      z-index: 2;
+    }
+
+    .fe-block-d1552b4b524516536358 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-d1552b4b524516536358 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65a2adc5fd0e202b2d95510b"><div class="fe-block fe-block-d1552b4b524516536358"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-d1552b4b524516536358"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--custom" style="color: rgb(174, 185, 37)">Ashley Garcia</span></h1>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+    <button class='background-pause-button' aria-label=""></button>
+<button class='background-pause-button paused' aria-label=""></button>
+
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="65a2adc5fd0e202b2d95510f"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;wavy&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 6.0
+    },
+    &quot;isFlipX&quot;: true,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-65a2adc5fd0e202b2d95510f);"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-65a2adc5fd0e202b2d95510e {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(14,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65a2adc5fd0e202b2d95510e {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65a2adc5fd0e202b2d95510e {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-c291ba576ea6b41f3660 {
+    grid-area: 1/2/9/10;
+    z-index: 2;
+  }
+
+  .fe-block-c291ba576ea6b41f3660 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-c291ba576ea6b41f3660 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-c291ba576ea6b41f3660 {
+      grid-area: 3/2/14/15;
+      z-index: 2;
+    }
+
+    .fe-block-c291ba576ea6b41f3660 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-c291ba576ea6b41f3660 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-b2326b677646e5a4eedd {
+    grid-area: 10/2/15/10;
+    z-index: 1;
+  }
+
+  .fe-block-b2326b677646e5a4eedd .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-b2326b677646e5a4eedd .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-b2326b677646e5a4eedd {
+      grid-area: 1/16/15/25;
+      z-index: 1;
+    }
+
+    .fe-block-b2326b677646e5a4eedd .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-b2326b677646e5a4eedd .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65a2adc5fd0e202b2d95510e"><div class="fe-block fe-block-c291ba576ea6b41f3660"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;url&quot;:&quot;&quot;,&quot;description&quot;:&#123;&quot;html&quot;:&quot;&lt;p class=\&quot;\&quot; data-rte-preserve-empty=\&quot;true\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;&lt;/p&gt;&quot;&#125;,&quot;resolvedBy&quot;:&quot;native&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;nativeVideo&quot;:&quot;65a2adc5fd0e202b2d9550f5&quot;&#125;" data-block-type="32" id="block-c291ba576ea6b41f3660"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:0.5625%;"><div class="sqs-native-video" data-config-block-id="c291ba576ea6b41f3660" data-config-settings="null" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;65a2adc5fd0e202b2d9550f5&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1700216192076,&quot;updatedOn&quot;:1700216213555,&quot;starred&quot;:false,&quot;passthrough&quot;:false,&quot;workflowState&quot;:1,&quot;publishOn&quot;:1705160133339,&quot;authorId&quot;:&quot;655624cc75e9ed1223c3c82b&quot;,&quot;systemDataId&quot;:&quot;1705160133338-IXZBONLSGKKIETYKUTPO&quot;,&quot;systemDataVariants&quot;:&quot;1920:1080,640:360&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;Portfolio Texting Title.mp4&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;unsaved&quot;:false,&quot;author&quot;:&#123;&quot;id&quot;:&quot;655624cc75e9ed1223c3c82b&quot;,&quot;displayName&quot;:&quot;Ash G&quot;,&quot;firstName&quot;:&quot;Ash&quot;,&quot;lastName&quot;:&quot;G&quot;,&quot;bio&quot;:&quot;&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133338-IXZBONLSGKKIETYKUTPO/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;65a2adbefd0e202b2d955034&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:8.4&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133338-IXZBONLSGKKIETYKUTPO/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;65a2adbefd0e202b2d955034&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:8.4,&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;ffbdc89e-def9-3e03-b91f-967ebf27b637&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;,&quot;originalSize&quot;:&quot;1920:1080&quot;&#125;"><div class="native-video-player"></div></div></div></div></div></div></div><div class="fe-block fe-block-b2326b677646e5a4eedd"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-b2326b677646e5a4eedd"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="white-space:pre-wrap;">What is it?</h3><p class="" style="white-space:pre-wrap;">I created this customizable intro using Apple Motion. </p><p class="" style="white-space:pre-wrap;">Apple Motion is used to create and edit motion graphics, titles, and effects for video and film production. It is similar to Adobe After Effects. Although I am very comfortable using Apple Motion, I can assure you that transitioning to Adobe After Effects won’t be difficult. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h3 style="white-space:pre-wrap;">Why?</h3><p class="" style="white-space:pre-wrap;">I  created this customizable intro to challenge myself in “familiarity”. By that I mean, I wanted to created something that looks accurate and similar to the real thing. That way it gives the viewer a sense of familiarity, </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 0;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+    
+  "
+>
+  <style>
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95510f"] {
+      padding-bottom: var(--divider-height);
+      z-index: var(--z-index);
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95510f"] .background-pause-button {
+      bottom: calc(14px + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95510f"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95510f"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95510f"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95510f"] .section-divider-block {
+      height: var(--divider-height);
+    }
+  </style>
+  
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95510f"] {
+      padding-bottom: 6vw;
+    }
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95510f"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 6vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-65a2adc5fd0e202b2d95510f"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      user-items-list-section
+      full-bleed-section
+    
+    
+    
+      
+    
+    
+      
+    
+    
+    
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="65a2adc5fd0e202b2d955110"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageFocalPoint&quot;: {
+    &quot;x&quot;: 0.5,
+    &quot;y&quot;: 0.5
+  },
+  &quot;imageOverlayOpacity&quot;: 0.3,
+  &quot;backgroundColor&quot;: &quot;white&quot;,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;filter&quot;: 1,
+    &quot;videoFallbackContentItem&quot;: null,
+    &quot;nativeVideoContentItem&quot;: null,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false,
+    &quot;type&quot;: &quot;wavy&quot;,
+    &quot;width&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;vw&quot;
+    },
+    &quot;height&quot;: {
+      &quot;value&quot;: 6,
+      &quot;unit&quot;: &quot;vw&quot;
+    },
+    &quot;isFlipX&quot;: false,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;value&quot;: 0,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;solid&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;value&quot;: 6,
+        &quot;unit&quot;: &quot;px&quot;
+      },
+      &quot;dashLength&quot;: {
+        &quot;value&quot;: 5,
+        &quot;unit&quot;: &quot;px&quot;
+      },
+      &quot;gapLength&quot;: {
+        &quot;value&quot;: 15,
+        &quot;unit&quot;: &quot;px&quot;
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation=""
+  
+  data-json-schema-section 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div
+  class="user-items-list"
+  style="
+    min-height: 100px;
+    padding-top: 2vmax;
+    padding-bottom: 4vmax;
+    "
+  data-card-theme=""
+  data-section-id="user-items-list"
+  data-section-title-enabled="true"
+  data-space-below-section-title-value="0"
+  data-space-below-section-title-unit="px"
+  data-layout-width="full"
+>
+  
+    
+    <div class="list-section-title"
+      id="65a2adc5fd0e202b2d955110"
+      style= "padding-bottom: 0px;"
+      data-section-title-alignment="center"
+    >
+      <p class="" style="white-space:pre-wrap;">Skills</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+    </div>
+  
+
+  
+
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .user-items-list-item-container[data-section-id="65a2adc5fd0e202b2d955110"] .list-item-content__title {
+    font-size: 1.2rem;
+  }
+  .user-items-list-item-container[data-section-id="65a2adc5fd0e202b2d955110"] .list-item-content__description {
+    font-size: 0.9rem;
+  }
+  .user-items-list-item-container[data-section-id="65a2adc5fd0e202b2d955110"] .list-item-content__button {
+    font-size: 0.8rem;
+  }
+
+  @supports (--test-custom-property: true) {
+    .user-items-list-item-container[data-section-id="65a2adc5fd0e202b2d955110"] {
+      --title-font-size-value: 1.2;
+      --body-font-size-value: 0.9;
+      --button-font-size-value: 0.8;
+    }
+  }
+</style>
+
+
+<div
+  class="
+    user-items-list-item-container
+    user-items-list-carousel
+  "
+  data-controller="UserItemsListCarousel"
+  data-max-columns="3"
+  data-show-adjacent-slides="true"
+  data-space-between-slides-value="20"
+  data-space-between-slides-unit="px"
+  data-media-aspect-ratio="original"
+  data-is-infinite-enabled="true"
+  data-navigation-controls="arrows"
+  data-navigation-placement="bottom"
+  data-navigation-alignment="center"
+  data-alignment-vertical="middle"
+  data-section-id="65a2adc5fd0e202b2d955110"
+  data-current-context="{
+  &quot;userItems&quot;: [ {
+    &quot;title&quot;: &quot;Microsoft Word&quot;,
+    &quot;description&quot;: &quot;Description goes here&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Click Here&quot;,
+      &quot;buttonLink&quot;: &quot;/&quot;
+    },
+    &quot;imageId&quot;: &quot;65a2adc5fd0e202b2d9550f8&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;65a2adc5fd0e202b2d9550f8&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1701103901265,
+      &quot;updatedOn&quot;: 1701103901334,
+      &quot;starred&quot;: false,
+      &quot;passthrough&quot;: false,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1701103901265,
+      &quot;authorId&quot;: &quot;655624cc75e9ed1223c3c82b&quot;,
+      &quot;systemDataId&quot;: &quot;1705160133350-2OXZA784S8VNII8EZ44J&quot;,
+      &quot;systemDataVariants&quot;: &quot;1024x1024,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+      &quot;filename&quot;: &quot;Word.PNG&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;272727&quot;,
+        &quot;topRightAverage&quot;: &quot;071722&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;272727&quot;,
+        &quot;bottomRightAverage&quot;: &quot;050d1b&quot;,
+        &quot;centerAverage&quot;: &quot;1d65b3&quot;,
+        &quot;suggestedBgColor&quot;: &quot;386ba0&quot;
+      },
+      &quot;urlId&quot;: &quot;xwgjdwsrbn67ddba34fd2mj9xwf0ri-eragg&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;655624cc75e9ed1223c3c82b&quot;,
+        &quot;displayName&quot;: &quot;Ash G&quot;,
+        &quot;firstName&quot;: &quot;Ash&quot;,
+        &quot;lastName&quot;: &quot;G&quot;,
+        &quot;bio&quot;: &quot;&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133350-2OXZA784S8VNII8EZ44J/Word.PNG&quot;,
+      &quot;contentType&quot;: &quot;image/png&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;1024x1024&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Microsoft PowerPoint&quot;,
+    &quot;description&quot;: &quot;Description goes here&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Click Here&quot;,
+      &quot;buttonLink&quot;: &quot;/&quot;
+    },
+    &quot;imageId&quot;: &quot;65a2adc5fd0e202b2d9550fb&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;65a2adc5fd0e202b2d9550fb&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1701103915902,
+      &quot;updatedOn&quot;: 1701103915966,
+      &quot;starred&quot;: false,
+      &quot;passthrough&quot;: false,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1701103915902,
+      &quot;authorId&quot;: &quot;655624cc75e9ed1223c3c82b&quot;,
+      &quot;systemDataId&quot;: &quot;1705160133353-X6HNC768MTA81B8KJIWY&quot;,
+      &quot;systemDataVariants&quot;: &quot;1024x1024,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+      &quot;filename&quot;: &quot;PPT.PNG&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;000000&quot;,
+        &quot;topRightAverage&quot;: &quot;000000&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;000000&quot;,
+        &quot;bottomRightAverage&quot;: &quot;000000&quot;,
+        &quot;centerAverage&quot;: &quot;f77851&quot;,
+        &quot;suggestedBgColor&quot;: &quot;844734&quot;
+      },
+      &quot;urlId&quot;: &quot;h7wzo66pxo4w9cvv4q87vymudo6rd5-8zcg7&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;655624cc75e9ed1223c3c82b&quot;,
+        &quot;displayName&quot;: &quot;Ash G&quot;,
+        &quot;firstName&quot;: &quot;Ash&quot;,
+        &quot;lastName&quot;: &quot;G&quot;,
+        &quot;bio&quot;: &quot;&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133353-X6HNC768MTA81B8KJIWY/PPT.PNG&quot;,
+      &quot;contentType&quot;: &quot;image/png&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;1024x1024&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Canva&quot;,
+    &quot;description&quot;: &quot;Description goes here&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Click Here&quot;,
+      &quot;buttonLink&quot;: &quot;/&quot;
+    },
+    &quot;imageId&quot;: &quot;65a2adc5fd0e202b2d9550fe&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;65a2adc5fd0e202b2d9550fe&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1701103939216,
+      &quot;updatedOn&quot;: 1701103939285,
+      &quot;starred&quot;: false,
+      &quot;passthrough&quot;: false,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1701103939216,
+      &quot;authorId&quot;: &quot;655624cc75e9ed1223c3c82b&quot;,
+      &quot;systemDataId&quot;: &quot;1705160133356-03X1SUSBVSGIT63QDDTC&quot;,
+      &quot;systemDataVariants&quot;: &quot;1024x1024,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+      &quot;filename&quot;: &quot;Canva.PNG&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;000000&quot;,
+        &quot;topRightAverage&quot;: &quot;000000&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;000000&quot;,
+        &quot;bottomRightAverage&quot;: &quot;000000&quot;,
+        &quot;centerAverage&quot;: &quot;6871f2&quot;,
+        &quot;suggestedBgColor&quot;: &quot;4a4c90&quot;
+      },
+      &quot;urlId&quot;: &quot;9ab1dbf64jcwz6jiieo3kjadt4d82c-lmh8s&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;655624cc75e9ed1223c3c82b&quot;,
+        &quot;displayName&quot;: &quot;Ash G&quot;,
+        &quot;firstName&quot;: &quot;Ash&quot;,
+        &quot;lastName&quot;: &quot;G&quot;,
+        &quot;bio&quot;: &quot;&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133356-03X1SUSBVSGIT63QDDTC/Canva.PNG&quot;,
+      &quot;contentType&quot;: &quot;image/png&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;1024x1024&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;Final Cut Pro (inspired)&quot;,
+    &quot;description&quot;: &quot;Description goes here&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;Click Here&quot;,
+      &quot;buttonLink&quot;: &quot;/&quot;
+    },
+    &quot;imageId&quot;: &quot;65a2adc5fd0e202b2d955101&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;65a2adc5fd0e202b2d955101&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1701103958655,
+      &quot;updatedOn&quot;: 1701103958721,
+      &quot;starred&quot;: false,
+      &quot;passthrough&quot;: false,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1701103958655,
+      &quot;authorId&quot;: &quot;655624cc75e9ed1223c3c82b&quot;,
+      &quot;systemDataId&quot;: &quot;1705160133360-RZND8B2ZC4FFOG28DAZM&quot;,
+      &quot;systemDataVariants&quot;: &quot;1024x1024,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+      &quot;filename&quot;: &quot;FinalCut.PNG&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;000000&quot;,
+        &quot;topRightAverage&quot;: &quot;040404&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;000000&quot;,
+        &quot;bottomRightAverage&quot;: &quot;000000&quot;,
+        &quot;centerAverage&quot;: &quot;49aa07&quot;,
+        &quot;suggestedBgColor&quot;: &quot;4b4236&quot;
+      },
+      &quot;urlId&quot;: &quot;1ia3gj0nb5of5m59krh95s2curfibs-zkggb&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;655624cc75e9ed1223c3c82b&quot;,
+        &quot;displayName&quot;: &quot;Ash G&quot;,
+        &quot;firstName&quot;: &quot;Ash&quot;,
+        &quot;lastName&quot;: &quot;G&quot;,
+        &quot;bio&quot;: &quot;&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133360-RZND8B2ZC4FFOG28DAZM/FinalCut.PNG&quot;,
+      &quot;contentType&quot;: &quot;image/png&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;1024x1024&quot;
+    }
+  } ],
+  &quot;styles&quot;: {
+    &quot;imageFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5
+    },
+    &quot;imageOverlayOpacity&quot;: 0.3,
+    &quot;backgroundColor&quot;: &quot;white&quot;,
+    &quot;sectionTheme&quot;: &quot;bright&quot;,
+    &quot;imageEffect&quot;: &quot;none&quot;,
+    &quot;backgroundMode&quot;: &quot;image&quot;,
+    &quot;backgroundImage&quot;: null
+  },
+  &quot;video&quot;: {
+    &quot;filter&quot;: 1,
+    &quot;videoFallbackContentItem&quot;: null,
+    &quot;nativeVideoContentItem&quot;: null,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageFocalPoint&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;options&quot;: {
+    &quot;maxColumns&quot;: 3,
+    &quot;isCardEnabled&quot;: false,
+    &quot;isMediaEnabled&quot;: true,
+    &quot;isTitleEnabled&quot;: true,
+    &quot;isBodyEnabled&quot;: false,
+    &quot;isButtonEnabled&quot;: false,
+    &quot;isShowAdjacentSlides&quot;: true,
+    &quot;isInfiniteEnabled&quot;: true,
+    &quot;isAutoplayEnabled&quot;: false,
+    &quot;slideDurationMs&quot;: 1000,
+    &quot;mediaAspectRatio&quot;: &quot;original&quot;,
+    &quot;layoutWidth&quot;: &quot;full&quot;,
+    &quot;mediaWidth&quot;: {
+      &quot;value&quot;: 50,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;mediaAlignment&quot;: &quot;center&quot;,
+    &quot;contentWidth&quot;: {
+      &quot;value&quot;: 75,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;titleAlignment&quot;: &quot;center&quot;,
+    &quot;bodyAlignment&quot;: &quot;center&quot;,
+    &quot;buttonAlignment&quot;: &quot;center&quot;,
+    &quot;titlePlacement&quot;: &quot;center&quot;,
+    &quot;bodyPlacement&quot;: &quot;center&quot;,
+    &quot;buttonPlacement&quot;: &quot;center&quot;,
+    &quot;cardVerticalAlignment&quot;: &quot;middle&quot;,
+    &quot;contentOrder&quot;: &quot;media-first&quot;,
+    &quot;titleFontSize&quot;: &quot;heading-2&quot;,
+    &quot;bodyFontSize&quot;: &quot;paragraph-2&quot;,
+    &quot;buttonFontSize&quot;: &quot;button-medium&quot;,
+    &quot;customOptions&quot;: {
+      &quot;customTitleFontSize&quot;: {
+        &quot;value&quot;: 1.2,
+        &quot;unit&quot;: &quot;rem&quot;
+      },
+      &quot;customBodyFontSize&quot;: {
+        &quot;value&quot;: 0.9,
+        &quot;unit&quot;: &quot;rem&quot;
+      },
+      &quot;customButtonFontSize&quot;: {
+        &quot;value&quot;: 0.8,
+        &quot;unit&quot;: &quot;rem&quot;
+      }
+    },
+    &quot;verticalPaddingTop&quot;: {
+      &quot;value&quot;: 2,
+      &quot;unit&quot;: &quot;vmax&quot;
+    },
+    &quot;verticalPaddingBottom&quot;: {
+      &quot;value&quot;: 4,
+      &quot;unit&quot;: &quot;vmax&quot;
+    },
+    &quot;spaceBetweenSlides&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;spaceBetweenContentAndMedia&quot;: {
+      &quot;value&quot;: 4,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;spaceBelowTitle&quot;: {
+      &quot;value&quot;: 0,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;spaceBelowBody&quot;: {
+      &quot;value&quot;: 4,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;cardPaddingTop&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingRight&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingBottom&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;cardPaddingLeft&quot;: {
+      &quot;value&quot;: 20,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;navigationOffset&quot;: {
+      &quot;value&quot;: 3,
+      &quot;unit&quot;: &quot;vw&quot;
+    },
+    &quot;navigationControls&quot;: &quot;arrows&quot;,
+    &quot;navigationPlacement&quot;: &quot;bottom&quot;,
+    &quot;navigationAlignment&quot;: &quot;center&quot;,
+    &quot;spaceAboveNavigation&quot;: {
+      &quot;value&quot;: 50,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;progressIndicators&quot;: &quot;bars&quot;
+  },
+  &quot;layout&quot;: &quot;carousel&quot;,
+  &quot;isSectionTitleEnabled&quot;: true,
+  &quot;sectionTitle&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;Skills&lt;\/p&gt;&lt;p class=\&quot;\&quot; data-rte-preserve-empty=\&quot;true\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;&lt;\/p&gt;&quot;,
+  &quot;spaceBelowSectionTitle&quot;: {
+    &quot;value&quot;: 0,
+    &quot;unit&quot;: &quot;px&quot;
+  },
+  &quot;sectionTitleAlignment&quot;: &quot;center&quot;,
+  &quot;isSectionButtonEnabled&quot;: false,
+  &quot;sectionButton&quot;: {
+    &quot;buttonText&quot;: &quot;Make It&quot;,
+    &quot;buttonLink&quot;: &quot;#&quot;,
+    &quot;buttonNewWindow&quot;: false
+  },
+  &quot;sectionButtonSize&quot;: &quot;medium&quot;,
+  &quot;sectionButtonAlignment&quot;: &quot;center&quot;,
+  &quot;spaceAboveSectionButton&quot;: {
+    &quot;value&quot;: 40,
+    &quot;unit&quot;: &quot;px&quot;
+  }
+}"
+  data-media-alignment="center"
+  data-title-alignment="center"
+  data-body-alignment="center"
+  data-button-alignment="center"
+  data-title-placement="center"
+  data-body-placement="center"
+  data-button-placement="center"
+  data-layout-width="full"
+  data-title-font-unit="rem"
+  data-description-font-unit="rem"
+  data-button-font-unit="rem"
+  data-is-media-enabled="true"
+  data-is-card-enabled="false"
+  data-media-width-value="50"
+  data-media-width-unit="%"
+  data-content-order="media-first"
+  data-space-between-columns=""
+  data-vertical-padding-top-value="2"
+  data-vertical-padding-bottom-value="4"
+  data-vertical-padding-top-unit="vmax"
+  data-vertical-padding-bottom-unit="vmax"
+>
+  <div
+    class="user-items-list-carousel__gutter"
+    role="region"
+    aria-label=""
+  >
+    <div class="user-items-list-carousel__slideshow-holder">
+
+      <div class="user-items-list-carousel__slides-revealer">
+        <ul class="user-items-list-carousel__slides" style="grid-gap: 20px;">
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 4%;
+                        width: 50%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="original"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133350-2OXZA784S8VNII8EZ44J/Word.PNG" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133350-2OXZA784S8VNII8EZ44J/Word.PNG" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="Word.PNG" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="none"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 75%;"
+                      >Microsoft Word</h2>
+                    
+
+                    
+
+                  </div>
+                
+
+                
+
+              </div>
+            </li>
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 4%;
+                        width: 50%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="original"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133353-X6HNC768MTA81B8KJIWY/PPT.PNG" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133353-X6HNC768MTA81B8KJIWY/PPT.PNG" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="PPT.PNG" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="none"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 75%;"
+                      >Microsoft PowerPoint</h2>
+                    
+
+                    
+
+                  </div>
+                
+
+                
+
+              </div>
+            </li>
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 4%;
+                        width: 50%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="original"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133356-03X1SUSBVSGIT63QDDTC/Canva.PNG" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133356-03X1SUSBVSGIT63QDDTC/Canva.PNG" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="Canva.PNG" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="none"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 75%;"
+                      >Canva</h2>
+                    
+
+                    
+
+                  </div>
+                
+
+                
+
+              </div>
+            </li>
+          
+            
+            <li class="
+                  user-items-list-carousel__slide list-item
+                  
+                "
+                style="
+                
+              "
+              data-is-card-enabled="false"
+            >
+              
+                
+                    <div class="user-items-list-carousel__media-container"
+                      style="
+                        margin-bottom: 4%;
+                        width: 50%;
+                      "
+                    >
+                      <div class="user-items-list-carousel__media-inner"
+                        data-media-aspect-ratio="original"
+                        data-animation-role="image"
+                      >
+                        <img
+                          
+                          data-image-focal-point=","
+                          
+                          alt=""
+                          src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133360-RZND8B2ZC4FFOG28DAZM/FinalCut.PNG" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133360-RZND8B2ZC4FFOG28DAZM/FinalCut.PNG" data-image-dimensions="1024x1024" data-image-focal-point="0.5,0.5" alt="FinalCut.PNG" 
+                          class="user-items-list-carousel__media"
+                          data-load="false"
+                          data-mode="none"
+                          data-use-advanced-positioning="true"
+                          elementtiming="nbf-list-carousel"
+                        />
+                      </div>
+                    </div>
+                
+              
+              <div class="list-item-content">
+
+                
+                  <div class="list-item-content__text-wrapper">
+
+                    
+                      <h2
+                        class="list-item-content__title"
+                        style="max-width: 75%;"
+                      >Final Cut Pro (inspired)</h2>
+                    
+
+                    
+
+                  </div>
+                
+
+                
+
+              </div>
+            </li>
+          
+        </ul>
+      </div>
+
+    </div>
+
+    
+      
+    
+
+    <div class="mobile-arrows">
+      <button
+  class="
+    mobile-arrow-button
+    mobile-arrow-button--left
+  "
+  aria-label="
+    
+      
+    
+    
+  "
+  data-animation-role="button"
+>
+  <div class="
+    user-items-list-carousel__arrow-icon-background
+    mobile-arrow-icon-background-area
+  ">
+  </div>
+  <svg class="mobile-arrow-icon" viewBox="0 0 24 14" xmlns="http://www.w3.org/2000/svg">
+
+    
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        mobile-arrow-icon-path"
+        d="M7.87012 13L2.00021 7L7.87012 1" stroke-width="2" fill="none"
+      />
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        mobile-arrow-icon-path"
+        d="M22.9653 7L3.03948 7" stroke-width="2" stroke-linecap="square" fill="none"
+      />
+    
+
+    
+
+  </svg>
+</button>
+
+      <button
+  class="
+    mobile-arrow-button
+    mobile-arrow-button--right
+  "
+  aria-label="
+    
+    
+      
+    
+  "
+  data-animation-role="button"
+>
+  <div class="
+    user-items-list-carousel__arrow-icon-background
+    mobile-arrow-icon-background-area
+  ">
+  </div>
+  <svg class="mobile-arrow-icon" viewBox="0 0 24 14" xmlns="http://www.w3.org/2000/svg">
+
+    
+
+    
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        mobile-arrow-icon-path"
+        d="M16.1299 1L21.9998 7L16.1299 13" stroke-width="2" fill="none"
+      />
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        mobile-arrow-icon-path"
+        d="M1.03472 7H20.9605" stroke-width="2" stroke-linecap="square" fill="none"
+      />
+    
+
+  </svg>
+</button>
+
+    </div>
+
+  </div>
+
+  
+    
+      <div
+        class="desktop-arrows arrows-bottom-wrapper"
+        style="margin-top: 50px;"
+      >
+        <div class="arrows-bottom">
+          <button
+  class="
+    user-items-list-carousel__arrow-button
+    user-items-list-carousel__arrow-button--left
+  "
+  aria-label="
+    
+      
+    
+    
+  "
+  data-animation-role="button"
+>
+  <div class="
+    user-items-list-carousel__arrow-icon-background
+    user-items-list-carousel__arrow-icon-background-area
+  ">
+  </div>
+  <svg class="user-items-list-carousel__arrow-icon" viewBox="0 0 44 18" xmlns="http://www.w3.org/2000/svg">
+
+    
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        user-items-list-carousel__arrow-icon-path"
+        d="M9.90649 16.96L2.1221 9.17556L9.9065 1.39116"
+      />
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        user-items-list-carousel__arrow-icon-path"
+        d="M42.8633 9.18125L3.37868 9.18125"
+      />
+    
+
+    
+
+  </svg>
+</button>
+
+          <button
+  class="
+    user-items-list-carousel__arrow-button
+    user-items-list-carousel__arrow-button--right
+  "
+  aria-label="
+    
+    
+      
+    
+  "
+  data-animation-role="button"
+>
+  <div class="
+    user-items-list-carousel__arrow-icon-background
+    user-items-list-carousel__arrow-icon-background-area
+  ">
+  </div>
+  <svg class="user-items-list-carousel__arrow-icon" viewBox="0 0 44 18" xmlns="http://www.w3.org/2000/svg">
+
+    
+
+    
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        user-items-list-carousel__arrow-icon-path"
+        d="M34.1477 1.39111L41.9321 9.17551L34.1477 16.9599"
+      />
+      <path class="user-items-list-carousel__arrow-icon-foreground
+        user-items-list-carousel__arrow-icon-path"
+        d="M1.19088 9.16982H40.6755"
+      />
+    
+
+  </svg>
+</button>
+
+        </div>
+      </div>
+    
+  
+
+</div>
+
+  
+
+  
+</div>
+
+      
+      
+      
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright'
+  
+  data-section-id="65a2adc5fd0e202b2d955114"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 1vh;" 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(1vmax / 10); padding-bottom: calc(1vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-65a2adc5fd0e202b2d955113 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(2,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65a2adc5fd0e202b2d955113 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65a2adc5fd0e202b2d955113 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-6d19120bd32ce82d70ed {
+    grid-area: 1/2/3/10;
+    z-index: 1;
+  }
+
+  .fe-block-6d19120bd32ce82d70ed .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-6d19120bd32ce82d70ed .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-6d19120bd32ce82d70ed {
+      grid-area: 1/2/8/26;
+      z-index: 1;
+    }
+
+    .fe-block-6d19120bd32ce82d70ed .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-6d19120bd32ce82d70ed .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65a2adc5fd0e202b2d955113"><div class="fe-block fe-block-6d19120bd32ce82d70ed"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-6d19120bd32ce82d70ed"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">In this personal project, I <strong>recreated</strong> my favorite apps. Some are near replicas and others have a twist. It was a very fun project that taught me the difficulties that come in creating vector art. I thought this project would be the PERFECT addition to showcase my skillset. However, this is not an exhaustive list since I also am skilled in:</p><ul data-rte-list="default"><li><p class="sqsrte-large" style="white-space:pre-wrap;">Apple Motion (Motion Graphics)</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Linearity (Vector Art)</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Procreate (Digital Art)</p></li></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    light'
+  
+  data-section-id="65a2adc5fd0e202b2d955117"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;generative&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-65a2adc5fd0e202b2d955116 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(22,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65a2adc5fd0e202b2d955116 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65a2adc5fd0e202b2d955116 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(24,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-edb6a7a9618a37909d97 {
+    grid-area: 1/2/8/10;
+    z-index: 1;
+  }
+
+  .fe-block-edb6a7a9618a37909d97 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-edb6a7a9618a37909d97 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-edb6a7a9618a37909d97 {
+      grid-area: 1/10/23/21;
+      z-index: 1;
+    }
+
+    .fe-block-edb6a7a9618a37909d97 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-edb6a7a9618a37909d97 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-2e4662381a07fe1c1b3d {
+    grid-area: 8/2/15/10;
+    z-index: 0;
+  }
+
+  .fe-block-2e4662381a07fe1c1b3d .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-2e4662381a07fe1c1b3d .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2e4662381a07fe1c1b3d {
+      grid-area: 3/15/25/26;
+      z-index: 2;
+    }
+
+    .fe-block-2e4662381a07fe1c1b3d .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-2e4662381a07fe1c1b3d .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-099c162a4b0ab564fad2 {
+    grid-area: 15/2/23/10;
+    z-index: 1;
+  }
+
+  .fe-block-099c162a4b0ab564fad2 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-099c162a4b0ab564fad2 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-099c162a4b0ab564fad2 {
+      grid-area: 5/2/15/13;
+      z-index: 3;
+    }
+
+    .fe-block-099c162a4b0ab564fad2 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-099c162a4b0ab564fad2 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65a2adc5fd0e202b2d955116"><div class="fe-block fe-block-edb6a7a9618a37909d97"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-edb6a7a9618a37909d97"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png" data-image-dimensions="942x1346" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png" width="942" height="1346" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133368-5HTWWAR74S3FP10MSRJW/Screenshot+2023-11-17+at+11.34.03+PM.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-edb6a7a9618a37909d97 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-2e4662381a07fe1c1b3d"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-2e4662381a07fe1c1b3d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="true" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png" data-image-dimensions="1414x2000" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png" width="1414" height="2000" alt="" sizes="100vw" style="display:block;object-fit: cover; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160133374-34PMRM2FEZME422V9T5R/2024+Journal.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-2e4662381a07fe1c1b3d .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-099c162a4b0ab564fad2"><div class="sqs-block html-block sqs-block-html sqs-background-enabled" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-099c162a4b0ab564fad2"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">As a child I enjoyed photo albums. This was my gateway adoration to journaling. After years of using composition books for my writing, I have succumb to taking my journaling off-paper and going digital. </p><p class="sqsrte-large" style="white-space:pre-wrap;">Thus, giving myself the opportunity to create my own planners and templates completely through Canva and Procreate. </p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Here is sample of one of my favorites. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <style>
+      #block-099c162a4b0ab564fad2 {
+        box-sizing: border-box;
+        height: 100%;
+        padding: 3% 3% 3% 3%;
+        border-radius: 0px 0px 0px 0px;
+
+        
+
+        
+          
+            
+            
+          
+        
+      }
+    </style>
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+    <button class='background-pause-button' aria-label=""></button>
+<button class='background-pause-button paused' aria-label=""></button>
+
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section has-section-divider
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="65a2adc5fd0e202b2d95511a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoFallbackContentItemId&quot;: &quot;65a2adc5fd0e202b2d95511c&quot;,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: true,
+    &quot;type&quot;: &quot;wavy&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 6.0
+    },
+    &quot;isFlipX&quot;: false,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+      data-controller="SectionDivider"
+      style="clip-path: url(#section-divider-65a2adc5fd0e202b2d95511a);"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-65a2adc5fd0e202b2d955119 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(10,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65a2adc5fd0e202b2d955119 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65a2adc5fd0e202b2d955119 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(9,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-8d577fb4936080072391 {
+    grid-area: 1/2/9/10;
+    z-index: 2;
+  }
+
+  .fe-block-8d577fb4936080072391 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-8d577fb4936080072391 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8d577fb4936080072391 {
+      grid-area: 2/2/8/20;
+      z-index: 2;
+    }
+
+    .fe-block-8d577fb4936080072391 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-8d577fb4936080072391 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-2fbf96201f1f510d1f7b {
+    grid-area: 9/6/11/10;
+    z-index: 1;
+  }
+
+  .fe-block-2fbf96201f1f510d1f7b .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-2fbf96201f1f510d1f7b .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2fbf96201f1f510d1f7b {
+      grid-area: 8/12/10/16;
+      z-index: 1;
+    }
+
+    .fe-block-2fbf96201f1f510d1f7b .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-2fbf96201f1f510d1f7b .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65a2adc5fd0e202b2d955119"><div class="fe-block fe-block-8d577fb4936080072391"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-8d577fb4936080072391"><div class="sqs-block-content">
+  <script class="TextAttributes-props" type="application/json">[ {
+  "type": "highlight",
+  "id": "a66cf25f-9451-4ebf-aff6-bab994c3c9f9",
+  "shape": "circle",
+  "isFront": true,
+  "isAnimationEnabled": true,
+  "animation": "draw",
+  "duration": 0.5,
+  "direction": "right",
+  "color": {
+    "type": "SITE_PALETTE_COLOR",
+    "sitePaletteColor": {
+      "colorName": "accent",
+      "alphaModifier": 0.84
+    }
+  },
+  "thickness": {
+    "unit": "em",
+    "value": 0.1
+  },
+  "linecap": "round"
+}, {
+  "type": "highlight",
+  "id": "96237aa4-a817-4c26-b38d-a7c236e226d1",
+  "shape": "wave",
+  "isFront": false,
+  "isAnimationEnabled": true,
+  "animation": "draw",
+  "duration": 0.5,
+  "direction": "right",
+  "color": {
+    "type": "SITE_PALETTE_COLOR",
+    "sitePaletteColor": {
+      "colorName": "accent",
+      "alphaModifier": 1.0
+    }
+  },
+  "thickness": {
+    "unit": "em",
+    "value": 0.1
+  },
+  "linecap": "round"
+} ]</script>
+
+
+<div class="sqs-html-content">
+  <h3 style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">What </span><span class="sqsrte-text-highlight" data-text-attribute-id="96237aa4-a817-4c26-b38d-a7c236e226d1"><span class="sqsrte-text-color--white">you saw</span></span><span class="sqsrte-text-color--white"> is only a fragment of my work. The rest are safely glued into my scrapbook. Come take a deep dive into my small cove of </span><span class="sqsrte-text-highlight" data-text-attribute-id="a66cf25f-9451-4ebf-aff6-bab994c3c9f9"><span class="sqsrte-text-color--white">creativity</span></span><span class="sqsrte-text-color--white"> by clicking the button below.</span></h3>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-2fbf96201f1f510d1f7b"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-2fbf96201f1f510d1f7b"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/scrapbook"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    See More
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+
+
+<div
+  class="section-divider-display"
+  style="
+    --stroke-thickness: 0;
+    --stroke-dasharray: 0;
+    --stroke-linecap: square;
+    
+      
+    
+  "
+>
+  <style>
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95511a"] {
+      padding-bottom: var(--divider-height);
+      z-index: var(--z-index);
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95511a"] .background-pause-button {
+      bottom: calc(14px + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95511a"] .section-divider-svg-clip {
+      display: block;
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95511a"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95511a"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) .section-background {
+      bottom: calc(var(--sqs-site-gutter) + var(--divider-height));
+    }
+
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95511a"] .section-divider-block {
+      height: var(--divider-height);
+    }
+  </style>
+  
+  <style data-section-divider-style>
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95511a"] {
+      padding-bottom: 6vw;
+    }
+    .has-section-divider[data-section-id="65a2adc5fd0e202b2d95511a"].background-width--inset:not(.content-collection):not(.gallery-section):not(.user-items-list-section) {
+      padding-bottom: calc(var(--sqs-site-gutter) + 6vw);
+    }
+  </style>
+  <div class="section-divider-block"></div>
+  <svg class="section-divider-svg-clip">
+    <clipPath
+      id="section-divider-65a2adc5fd0e202b2d95511a"
+      clipPathUnits="objectBoundingBox"
+    >
+      <path class="section-divider-clip" d="M0,0" />
+    </clipPath>
+  </svg>
+  <svg class="section-divider-svg-stroke" viewBox="0 0 1 1" preserveAspectRatio="none">
+    <path class="section-divider-stroke" d="M0,0" vector-effect="non-scaling-stroke" />
+  </svg>
+</div>
+
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About</title>
+      <pubDate>Sat, 13 Jan 2024 15:35:27 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65a2adbffd0e202b2d955083">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="65a2adbffd0e202b2d955087"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-65a2adbffd0e202b2d955086 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(28,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65a2adbffd0e202b2d955086 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65a2adbffd0e202b2d955086 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(19,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-f6efdb96e1bda29cc319 {
+    grid-area: 1/2/15/10;
+    z-index: 0;
+  }
+
+  .fe-block-f6efdb96e1bda29cc319 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-f6efdb96e1bda29cc319 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f6efdb96e1bda29cc319 {
+      grid-area: 2/15/20/25;
+      z-index: 0;
+    }
+
+    .fe-block-f6efdb96e1bda29cc319 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-f6efdb96e1bda29cc319 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-187f5de4f510b2da2210 {
+    grid-area: 15/2/17/10;
+    z-index: 1;
+  }
+
+  .fe-block-187f5de4f510b2da2210 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-187f5de4f510b2da2210 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-187f5de4f510b2da2210 {
+      grid-area: 2/2/5/13;
+      z-index: 1;
+    }
+
+    .fe-block-187f5de4f510b2da2210 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-187f5de4f510b2da2210 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-3dec960bdc714bacfb1e {
+    grid-area: 17/2/29/10;
+    z-index: 2;
+  }
+
+  .fe-block-3dec960bdc714bacfb1e .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-3dec960bdc714bacfb1e .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3dec960bdc714bacfb1e {
+      grid-area: 5/2/18/14;
+      z-index: 2;
+    }
+
+    .fe-block-3dec960bdc714bacfb1e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-3dec960bdc714bacfb1e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65a2adbffd0e202b2d955086"><div class="fe-block fe-block-f6efdb96e1bda29cc319"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-f6efdb96e1bda29cc319"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);border-top-left-radius: 30px;border-top-right-radius: 30px;border-bottom-left-radius: 30px;border-bottom-right-radius: 30px;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+              
+              
+              
+              
+              
+              
+              <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg" data-image-dimensions="720x900" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg" width="720" height="900" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 41.66666666666667vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160127508-JQRLONVBBXJ4GEYIMTWF/ashrista.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      
+        .sqs-block-image .sqs-block-content {
+          height: 100%;
+          width: 100%;
+        }
+      
+
+      
+        .fe-block-f6efdb96e1bda29cc319 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-187f5de4f510b2da2210"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-187f5de4f510b2da2210"><div class="sqs-block-content">
+  <script class="TextAttributes-props" type="application/json">[ {
+  "type": "highlight",
+  "id": "4d1c9277-3a0c-41fb-9ee5-ed017136fad0",
+  "shape": "scribble",
+  "isFront": true,
+  "isAnimationEnabled": true,
+  "animation": "draw",
+  "duration": 0.5,
+  "direction": "right",
+  "color": {
+    "type": "SITE_PALETTE_COLOR",
+    "sitePaletteColor": {
+      "colorName": "accent",
+      "alphaModifier": 1.0
+    }
+  },
+  "thickness": {
+    "unit": "em",
+    "value": 0.05
+  },
+  "linecap": "round"
+} ]</script>
+
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;"><span class="sqsrte-text-highlight" data-text-attribute-id="4d1c9277-3a0c-41fb-9ee5-ed017136fad0">Who Am I?</span></h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-3dec960bdc714bacfb1e"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-3dec960bdc714bacfb1e"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">Thank you for your curiosity about me, it’s refreshing. I won’t keep you waiting. First of all, you already know my name because … well, it’s on my homepage, résumé, domain, and birth certificate (hopefully). I’m proud of my name, but I think nicknames are cute so call me, Ash. </p><p class="sqsrte-large" style="white-space:pre-wrap;">I’m a creative. Every month I pick up a new hobby, simply because it brings me joy. I enjoy video editing, content creating, singing, crocheting, journaling, and much more. My goal in life is to find a place that can nurture my creativity and ambition. Nice to meet you.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">P.S. This is my favorite outfit. You will see me wear it and its many seasonal variations throughout the office. (One of the many perks of working with me)</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Sat, 13 Jan 2024 15:35:29 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65a2adc1fd0e202b2d95508b">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="65a2adc1fd0e202b2d955090"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;light&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-65a2adc1fd0e202b2d95508e {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(12,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65a2adc1fd0e202b2d95508e {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65a2adc1fd0e202b2d95508e {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(11,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-79a6abf7a68020ada700 {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+  }
+
+  .fe-block-79a6abf7a68020ada700 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-79a6abf7a68020ada700 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-79a6abf7a68020ada700 {
+      grid-area: 1/2/9/12;
+      z-index: 1;
+    }
+
+    .fe-block-79a6abf7a68020ada700 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-79a6abf7a68020ada700 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-58af4eec32ecf564d39e {
+    grid-area: 7/2/13/10;
+    z-index: 2;
+  }
+
+  .fe-block-58af4eec32ecf564d39e .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-58af4eec32ecf564d39e .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-58af4eec32ecf564d39e {
+      grid-area: 1/15/12/24;
+      z-index: 5;
+    }
+
+    .fe-block-58af4eec32ecf564d39e .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-58af4eec32ecf564d39e .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65a2adc1fd0e202b2d95508e"><div class="fe-block fe-block-79a6abf7a68020ada700"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-79a6abf7a68020ada700"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Contact Me</h2><p class="sqsrte-large" style="white-space:pre-wrap;">If you have any comments, questions, or constructive criticism, please send me an email. I can’t wait to hear from you!</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><a href="mailto:ash.g30@outlook.com?subject=Portfolio%20Submission%20&amp;">ash.g30@outlook.com</a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-58af4eec32ecf564d39e"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="100.0" data-block-type="5" id="block-58af4eec32ecf564d39e"><div class="sqs-block-content"><div class="sqs-image sqs-empty"><div class="sqs-image-content" style="padding-bottom: 100.0%"></div></div></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/scrapbook</link>
+      <title>Scrapbook</title>
+      <pubDate>Sat, 13 Jan 2024 15:35:29 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65a2adc1fd0e202b2d9550a8">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="65a2adc1fd0e202b2d9550ac"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-65a2adc1fd0e202b2d9550ab {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(18,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65a2adc1fd0e202b2d9550ab {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65a2adc1fd0e202b2d9550ab {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(24,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-b7626d65c4694293be4f {
+    grid-area: 1/2/11/10;
+    z-index: 0;
+  }
+
+  .fe-block-b7626d65c4694293be4f .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-b7626d65c4694293be4f .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-b7626d65c4694293be4f {
+      grid-area: 1/7/7/21;
+      z-index: 0;
+    }
+
+    .fe-block-b7626d65c4694293be4f .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-b7626d65c4694293be4f .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-cd06f821fc247db76883 {
+    grid-area: 11/2/19/10;
+    z-index: 2;
+  }
+
+  .fe-block-cd06f821fc247db76883 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-cd06f821fc247db76883 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-cd06f821fc247db76883 {
+      grid-area: 8/4/25/24;
+      z-index: 2;
+    }
+
+    .fe-block-cd06f821fc247db76883 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-cd06f821fc247db76883 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65a2adc1fd0e202b2d9550ab"><div class="fe-block fe-block-b7626d65c4694293be4f"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-b7626d65c4694293be4f"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="text-align:center;white-space:pre-wrap;">Digital Scrapbook</h1><p style="text-align:center;white-space:pre-wrap;" class="">Welcome to my digital scrapbook! Below, you will find various personal projects. They range from art, content creation, video editing, and design. I love to create new things therefore, this page will be updated frequently to showcase my newest creations. Enjoy!</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-cd06f821fc247db76883"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;description&quot;:&#123;&#125;,&quot;resolvedBy&quot;:&quot;native&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;nativeVideo&quot;:&quot;65a2adc1fd0e202b2d955094&quot;&#125;" data-block-type="32" id="block-cd06f821fc247db76883"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:0.5625%;"><div class="sqs-native-video" data-config-block-id="cd06f821fc247db76883" data-config-settings="null" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;65a2adc1fd0e202b2d955094&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1701000902461,&quot;updatedOn&quot;:1701000956103,&quot;starred&quot;:false,&quot;passthrough&quot;:false,&quot;workflowState&quot;:1,&quot;publishOn&quot;:1705160129306,&quot;authorId&quot;:&quot;655624cc75e9ed1223c3c82b&quot;,&quot;systemDataId&quot;:&quot;1705160129306-5I0I61H88ZKR6JBCXNK1&quot;,&quot;systemDataVariants&quot;:&quot;1920:1080,640:360&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;Portfolio Intro.mp4&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;unsaved&quot;:false,&quot;author&quot;:&#123;&quot;id&quot;:&quot;655624cc75e9ed1223c3c82b&quot;,&quot;displayName&quot;:&quot;Ash G&quot;,&quot;firstName&quot;:&quot;Ash&quot;,&quot;lastName&quot;:&quot;G&quot;,&quot;bio&quot;:&quot;&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129306-5I0I61H88ZKR6JBCXNK1/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;65a2adbefd0e202b2d955034&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:18.2&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129306-5I0I61H88ZKR6JBCXNK1/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;65a2adbefd0e202b2d955034&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:18.2,&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;0c526fa2-25ee-3c39-bcfd-673c21bd2b71&quot;,&quot;originalSize&quot;:&quot;1920:1080&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;&#125;"><div class="native-video-player"></div></div></div></div></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      gallery-section
+      full-bleed-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="65a2adc1fd0e202b2d9550ad"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false,
+    &quot;type&quot;: &quot;wavy&quot;,
+    &quot;width&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;vw&quot;
+    },
+    &quot;height&quot;: {
+      &quot;value&quot;: 6,
+      &quot;unit&quot;: &quot;vw&quot;
+    },
+    &quot;isFlipX&quot;: false,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;value&quot;: 0,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;solid&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+        &quot;sitePaletteColor&quot;: {
+          &quot;colorName&quot;: &quot;darkAccent&quot;,
+          &quot;alphaModifier&quot;: 0.98
+        }
+      },
+      &quot;thickness&quot;: {
+        &quot;value&quot;: 6,
+        &quot;unit&quot;: &quot;px&quot;
+      },
+      &quot;dashLength&quot;: {
+        &quot;value&quot;: 5,
+        &quot;unit&quot;: &quot;px&quot;
+      },
+      &quot;gapLength&quot;: {
+        &quot;value&quot;: 15,
+        &quot;unit&quot;: &quot;px&quot;
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  
+  data-json-schema-section 
+  
+  
+>
+  <div
+    class="section-border" 
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          
+
+<div class="gallery" style="min-height: 100px;">
+  
+
+  
+    <!-- Gallery Masonry --><div
+  class="gallery-masonry"
+  data-controller="GalleryMasonry"
+  
+  data-section-id="65a2adc1fd0e202b2d9550ad"
+  data-animation="fade-up"
+  data-lightbox=""
+  data-width="full"
+  data-props='{
+  "scrollAnimation": "fade-up",
+  "gutter": 7,
+  "numColumns": 3,
+  "width": "full",
+  "lightboxEnabled": false
+}'
+  data-show-captions="true"
+  data-test="gallery-grid-masonry"
+>
+  <div class="gallery-masonry-wrapper">
+    
+    <figure class="gallery-masonry-item">
+      <div class="gallery-masonry-item-wrapper">
+
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG" data-image-dimensions="1080x1080" data-image-focal-point="0.5,0.5" alt="--.PNG" data-load="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG" width="1080" height="1080" alt="" sizes="(max-width:768px)49.825vw,33.1vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129344-8M6ICWZ7ZONSS6XK5N6Y/--.PNG?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+        
+      
+    </figure>
+    
+    <figure class="gallery-masonry-item">
+      <div class="gallery-masonry-item-wrapper">
+
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png" data-image-dimensions="1080x1920" data-image-focal-point="0.5,0.5" alt="NO TRICK.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png" width="1080" height="1920" alt="" sizes="(max-width:768px)49.825vw,33.1vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129361-ML2WVNE85AE73P56ZNFZ/NO+TRICK.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+        
+      
+    </figure>
+    
+    <figure class="gallery-masonry-item">
+      <div class="gallery-masonry-item-wrapper">
+
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png" data-image-dimensions="894x1260" data-image-focal-point="0.5,0.5" alt="Screenshot 2023-11-17 at 11.53.17 PM.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png" width="894" height="1260" alt="" sizes="(max-width:768px)49.825vw,33.1vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129327-7N14S1WVJYHI8OJ4MH74/Screenshot+2023-11-17+at+11.53.17+PM.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+        
+      
+    </figure>
+    
+    <figure class="gallery-masonry-item">
+      <div class="gallery-masonry-item-wrapper">
+
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png" data-image-dimensions="1600x1600" data-image-focal-point="0.5,0.5" alt="ghost1.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png" width="1600" height="1600" alt="" sizes="(max-width:768px)49.825vw,33.1vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129375-D9K2KDC3D4UYCI75C0YO/ghost1.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+        
+      
+    </figure>
+    
+    <figure class="gallery-masonry-item">
+      <div class="gallery-masonry-item-wrapper">
+
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png" data-image-dimensions="1600x1600" data-image-focal-point="0.5,0.5" alt="ghost2.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png" width="1600" height="1600" alt="" sizes="(max-width:768px)49.825vw,33.1vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129384-VF2L32R2GE0YGKWID3FM/ghost2.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+        
+      
+    </figure>
+    
+    <figure class="gallery-masonry-item">
+      <div class="gallery-masonry-item-wrapper">
+
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png" data-image-dimensions="894x1260" data-image-focal-point="0.5,0.5" alt="Screenshot 2023-11-17 at 11.54.09 PM.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png" width="894" height="1260" alt="" sizes="(max-width:768px)49.825vw,33.1vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129335-Z8OUD227OQ2BBTUQDUEI/Screenshot+2023-11-17+at+11.54.09+PM.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+        
+      
+    </figure>
+    
+    <figure class="gallery-masonry-item">
+      <div class="gallery-masonry-item-wrapper">
+
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png" data-image-dimensions="694x1012" data-image-focal-point="0.5,0.5" alt="Screenshot 2023-11-18 at 1.06.23 AM.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png" width="694" height="1012" alt="" sizes="(max-width:768px)49.825vw,33.1vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129352-EZLU83AW9PZW0V6CUPYI/Screenshot+2023-11-18+at+1.06.23+AM.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+        
+      
+    </figure>
+    
+    <figure class="gallery-masonry-item">
+      <div class="gallery-masonry-item-wrapper">
+
+        
+          
+          
+            
+<img src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png" data-image="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png" data-image-dimensions="1080x1920" data-image-focal-point="0.5,0.5" alt="2.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png" width="1080" height="1920" alt="" sizes="(max-width:768px)49.825vw,33.1vw" style="display:block;object-position:50% 50%;object-fit:cover;width:100%;height:100%" srcset="https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65a2adbefd0e202b2d955034/1705160129368-0CM8U63HL1D9XFVM39SD/2.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+          
+          
+        
+      </div>
+      
+        
+      
+    </figure>
+    
+  </div>
+  
+</div>
+
+  
+
+  
+
+  
+
+  
+
+  
+</div>
+
+        </div>
+      
+      
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>scrapbook</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
