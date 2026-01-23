@@ -1,14 +1,79 @@
 *{
-  margin: 0;
-}
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
 body{
   background-color: #FCFFB5;
 }
 
-h1 {
-  color: #b2c42d
-  background: #e0f446;
-  padding: 120px;
+/*navigation bar holding individual tabs*/
+.navbar{
+  display: flex;
+  gap: 5px;
+}
+
+.tab{
+  background-color: #7BB2D9;
+  box-shadow: 0px 4px 4px rgba(0,0,0,0.2);
+  position: relative;
+  border-radius: 0px 0px 12px 12px;
+  width: 130px;
+  height: 30px;
+  overflow: hidden;
+  transition: height 0.3s ease;
+}
+
+/*tabs expand effect/animation*/
+.tab:hover{
+  box-shadow: 0px 4px 4px rgba(0,0,0,0.2);
+  height: 90px;
+}
+
+.tab-reveal{
+  color: white;
+  font-weight: bold;
+  font-family: Calisto MT,Bookman Old Style,Bookman,Goudy Old Style,Garamond,Hoefler Text,Bitstream Charter,Georgia,serif; ;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.tab:hover .tab-reveal{
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+  transition-delay: 0.15s;
+
+}
+
+/* this is a global anchor tag that affects all links */
+a{
+  text-decoration: none;
+  font-family: Calisto MT,Bookman Old Style,Bookman,Goudy Old Style,Garamond,Hoefler Text,Bitstream Charter,Georgia,serif; 
+  font-size: 20px;
+  font-weight: 400;
+}
+
+
+/* Using the div class I made so I can have more freedom editing different sections of the site */
+.banner{
   text-align: center;
-  font-size: 60px;
+  background: #60935D; 
+  padding:calc(8px + 2vw);
+  height: calc(250px + 2vw);
+}
+
+.banner h1{
+  color: #ffff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  bottom:-20%;
+  transform: translate(-50%, -50%);
+  font-size: 90px;
+  font-family: Calisto MT,Bookman Old Style,Bookman,Goudy Old Style,Garamond,Hoefler Text,Bitstream Charter,Georgia,serif; 
 }
