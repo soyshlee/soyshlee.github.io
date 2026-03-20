@@ -1,3 +1,4 @@
+/* this affects the entire document */
 *{
     margin: 0;
     padding: 0;
@@ -5,10 +6,38 @@
   }
 
 body{
-  background-color: #FCFFB5;
+  display: flex;
+  flex-direction: column;
+  background-color: #EAF0E9;
+  min-height: 100vh;
 }
 
-/*navigation bar holding individual tabs*/
+/* links can be styled differently depending on what state they are in. The four links states are: 
+a:link - a normal, unvisited link
+a:visited - a link the user has visited
+a:hover - a link when the user mouses over it
+a:active - a link the moment it is clicked
+
+SOME RULES TO FOLLOW 
+a:hover MUST come after a:link and a:visited 
+a:active MUST come after a:hover */
+
+/* this is a global anchor tag that affects all links */
+
+a{
+  color: white;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+a:hover{
+  color: darkslateblue;
+  transition: color 0.2s ease;
+}
+
+/* my navigation bar and its tabs*/
 .navbar{
   display: flex;
   gap: 5px;
@@ -21,20 +50,17 @@ body{
   border-radius: 0px 0px 12px 12px;
   width: 130px;
   height: 30px;
-  overflow: hidden;
   transition: height 0.3s ease;
 }
 
-/*tabs expand effect/animation*/
 .tab:hover{
-  box-shadow: 0px 4px 4px rgba(0,0,0,0.2);
   height: 90px;
 }
 
 .tab-reveal{
   color: white;
   font-weight: bold;
-  font-family: Calisto MT,Bookman Old Style,Bookman,Goudy Old Style,Garamond,Hoefler Text,Bitstream Charter,Georgia,serif;
+  font-family: 'Courier New', Courier, monospace;
   position: absolute;
   bottom: 10px;
   left: 50%;
@@ -50,30 +76,135 @@ body{
 
 }
 
-/* this is a global anchor tag that affects all links */
-a{
-  text-decoration: none;
-  font-family: Calisto MT,Bookman Old Style,Bookman,Goudy Old Style,Garamond,Hoefler Text,Bitstream Charter,Georgia,serif; 
-  font-size: 20px;
-  font-weight: 400;
-}
-
-
 /* Using the div class I made so I can have more freedom editing different sections of the site */
-.banner{
-  text-align: center;
-  background: #60935D; 
-  padding:calc(8px + 2vw);
-  height: calc(250px + 2vw);
+.jelly_text{
+  position:relative;
+  display: flex;
+  color: white;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  letter-spacing: -0.07em;
+  font-family: 'Courier New', Courier, monospace;
 }
 
-.banner h1{
-  color: #ffff;
+.banner{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:calc(8px + 2vw);
+  height: calc(220px + 2vw);
+  background:#60935D;
+  overflow: hidden;
+}
+
+.banner:hover {
+  background: #169010;
+}
+
+.banner:hover .jelly_text{
+  color: #ffffffd0; ;
+}
+
+.banner:hover .jelly, .banner:hover .jelly_texture{
+  opacity: 1;
+}
+
+.jelly, .jelly_texture{
   position: absolute;
-  top: 50%;
-  left: 50%;
-  bottom:-20%;
-  transform: translate(-50%, -50%);
-  font-size: 90px;
-  font-family: Calisto MT,Bookman Old Style,Bookman,Goudy Old Style,Garamond,Hoefler Text,Bitstream Charter,Georgia,serif; 
+  inset: 0;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.jelly{
+  background:
+    radial-gradient(circle at 15% 25%, rgba(147, 139, 93, 0.4) 0%, rgba(147, 144, 93, 0) 60%),
+    radial-gradient(circle at 40% 85%, rgba(94, 91, 53, 0.5) 0%, rgba(94, 93, 53, 0) 60%),
+    radial-gradient(circle at 90% 25%, rgba(147, 145, 93, 0.35) 0%, rgba(147, 146, 93, 0) 60%),
+    radial-gradient(circle at 30% 20%, rgba(203, 207, 122, 0.35), transparent 45%),
+    radial-gradient(circle at 70% 70%, rgba(147, 142, 93, 0.25), transparent 55%);
+  mix-blend-mode: screen;
+}
+
+.jelly_texture{
+  background:
+    radial-gradient(circle at 30% 40%, rgba(94, 91, 53, 0.45) 0%, rgba(94, 91, 53, 0) 20%),
+    radial-gradient(circle at 60% 55%, rgba(147, 142, 93, 0.3) 0%, rgba(143, 147, 93, 0) 18%),
+    radial-gradient(circle at 75% 30%, rgba(204, 207, 122, 0.2) 0%, rgba(207, 194, 122, 0) 15%);
+  mix-blend-mode: overlay;
+}
+
+.stickynote_container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.stickynote{
+  align-items: center;
+  list-style-position: inside;
+  justify-content: center;
+  position: relative;
+  height: 288px;
+  width: 288px;
+  background-color: #FFEBA1;
+  box-shadow: 0px 8px 12px rgba(0,0,0,0.2);
+  padding: 15px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.note1{
+  transform: rotate(1deg) translateX(-5px);
+  z-index: 2;
+  transition: transform 0.3s ease-in-out;
+}
+
+.note2{
+  transform: rotate(-5deg) translateX(-50px) translateY(-4px);
+  z-index: 1;
+  transition: transform 0.3s ease-in-out;
+}
+
+.stickynote:hover{
+  z-index: 10;
+  transform: rotate(0deg) scale(1.25);
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.4); /*dim everything else*/
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: white;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid gray;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close {
+  color: gray;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: darkslateblue;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.4s ease;
 }
