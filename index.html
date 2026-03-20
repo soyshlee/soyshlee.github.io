@@ -2,29 +2,95 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="index.css">
-    <title>Welcome! I'm Ash</title>
+    <link rel="stylesheet" href="home_style_sheet.css">
+    <title>Welcome</title>
   </head>
   <body>
     <div class="banner">
-      <h1> Ashley Garcia</h1>
+      <div class="jelly">
+        <div class="jelly_texture"></div>
+      </div>
+      <h1 class="jelly_text">the portfolio</h1>
     </div>
     <nav class="navbar">
       <div class="tab">
-        <span class="tab-reveal">About</span>
+        <span class="tab-reveal">
+          <a href="#" class="modalLink" data-modal="aboutModal">About</a>
+        </span>
       </div>
       <div class="tab">
-        <span class="tab-reveal">Featured</span>
+        <span class="tab-reveal">
+          <a href="#" class="modalLink" data-modal="FeatModal">Featured</a>
+        </span>
       </div>
       <div class="tab">
-        <span class="tab-reveal">Creative</span>
+        <span class="tab-reveal">
+          <a href="#" class="modalLink" data-modal="CreateModal">Creative</a>
+        </span>
       </div>
       <div class="tab">
-        <span class="tab-reveal">Technical</span>
+        <span class="tab-reveal">
+          <a href="#" class="modalLink" data-modal="TechModal">Technical</a>
+        </span>
       </div>
       <div class="tab">
-        <span class="tab-reveal">Skills</span>
+        <span class="tab-reveal">
+          <a href="#" class="modalLink" data-modal="SkillsModal">Skills</a>
+        </span>
       </div>
     </nav>
+    </div>
+
+    <!--- modal information for each link ---->
+    <div id="aboutModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>Some text in the Modal..</p>
+      </div>
+    </div>
+    <div id="FeatModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>Some feat text in the Modal..</p>
+      </div>
+    </div>
+    <div id="CreateModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>Some create text in the Modal..</p>
+      </div>
+    </div>
+    <div id="TechModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>Some tech text in the Modal..</p>
+      </div>
+    </div>
+    <div id="SkillsModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>Some skill text in the Modal..</p>
+      </div>
+    </div>
+
+    <!-- sticky notes -->
+
+    <div class="stickynote_container">
+          <div class="stickynote note1"><p><b>Hello, I'm Ash </b> and I combine data analysis with creativity! Most of my projects are focused on user-centered solutions; they're either Python, SQL, or design based. Be it, redesigning a book cover or creating this porfolio, I’m someone who is always <u>experimenting and learning how to bridge technology for the people who use it.</u></p></div>
+          <div class="stickynote note2">
+            <p><mark>Some of my hobbies and interests include:</mark>
+              <ul>
+              <li>Crotchet</li>
+              <li>Song Writing</li>
+              <li>Acting</li>
+              <li>Programming</li>
+              <li>Weightlifting</li>
+              <li>YouTube</li>
+            </ul><br>
+            oh and I love deadpan humor!</p>
+          </div>
+    </div>
+  <!-- call java script file -->
+  <script src="jello.js"></script>
   </body>
 </html>
