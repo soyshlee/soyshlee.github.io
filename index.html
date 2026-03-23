@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!-- main font-->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="index.css">
     <title>Welcome</title>
@@ -40,12 +44,14 @@
       </div>
     </nav>
     </div>
-
     <!--- modal information for each link ---->
     <div id="aboutModal" class="modal">
       <div class="modal-content">
         <span class="close">&times;</span>
-        <p>Some text in the Modal..</p>
+        <div class="image-crop">
+          <img src="images/about/me.jpg" class="image-circle">
+        </div>
+        <p>Dear user, this is I. And this is some text.</p>
       </div>
     </div>
     <div id="FeatModal" class="modal">
@@ -57,7 +63,90 @@
     <div id="CreateModal" class="modal">
       <div class="modal-content">
         <span class="close">&times;</span>
-        <p>Some create text in the Modal..</p>
+        <div class="gallery">
+
+          <div class="office-project">
+            <div class="office-stamp">Internal Use Only</div>
+            <div class="office-image">
+              <img src="images/creative/ash_7.png">
+              <img src="images/creative/ash_8.png">
+              <img src="images/creative/ash_9.png">
+              <img src="images/creative/ash_10.png">
+            </div>
+            <div class="office-details">
+              <h3>Project Title: App Recreation</h3>
+              <p>Quick summary belongs here. heheheheheh yes</p>
+            </div>
+          </div>
+
+          <div class="office-project">
+            <div class="office-stamp">Internal Use Only</div>
+            <div class="office-image">
+              <img src="images/creative/ash_2.jpg">
+            </div>
+            <div class="office-details">
+              <h3>Project Title: Clickbait Inspired</h3>
+              <p>Quick summary belongs here. heheheheheh yes</p>
+            </div>
+          </div>
+
+          <div class="office-project">
+            <div class="office-stamp">Internal Use Only</div>
+            <div class="office-image">
+              <img src="images/creative/ash_1.jpg">
+            </div>
+            <div class="office-details">
+              <h3>Project Title: Club Invite</h3>
+              <p>Quick summary belongs here. heheheheheh yes</p>
+            </div>
+          </div>
+
+          <div class="office-project">
+            <div class="office-stamp">Internal Use Only</div>
+            <div class="office-image">
+              <img src="images/creative/fizz.jpg">
+              <img src="images/creative/ash_3.png">
+            </div>
+            <div class="office-details">
+              <h3>Project Title: Advertisement Glow-up</h3>
+              <p>Quick summary belongs here. heheheheheh yes</p>
+            </div>
+          </div>
+
+          <div class="office-project">
+            <div class="office-stamp">Internal Use Only</div>
+            <div class="office-image">
+              <img src="images/creative/ash_4.png">
+            </div>
+            <div class="office-details">
+              <h3>Project Title: Hello from Thailand</h3>
+              <p>Quick summary belongs here. heheheheheh yes</p>
+            </div>
+          </div>
+
+          <div class="office-project">
+            <div class="office-stamp">Internal Use Only</div>
+            <div class="office-image">
+              <img src="images/creative/ash_6.png">
+            </div>
+            <div class="office-details">
+              <h3>Project Title: Retro-esque Ticket</h3>
+              <p>Quick summary belongs here. heheheheheh yes</p>
+            </div>
+          </div>
+
+          <div class="office-project">
+            <div class="office-stamp">Internal Use Only</div>
+            <div class="office-image">
+              <img src="images/creative/ash_5.png">
+            </div>
+            <div class="office-details">
+              <h3>Project Title: DiDi Movie Poster</h3>
+              <p>Quick summary belongs here. heheheheheh yes</p>
+            </div>
+          </div>
+
+        </div>
       </div>
     </div>
     <div id="TechModal" class="modal">
@@ -69,14 +158,49 @@
     <div id="SkillsModal" class="modal">
       <div class="modal-content">
         <span class="close">&times;</span>
-        <p>Some skill text in the Modal..</p>
+        <h2>Software</h2>
+        <div class="skillset-box-container">
+          <div class="skillset-box">HTML</div>
+          <div class="skillset-box">SQL</div>
+          <div class="skillset-box">Python</div>
+          <div class="skillset-box">Jupyter Notebooks</div>
+          <div class="skillset-box">Github</div>
+          <div class="skillset-box">Figma</div>
+          <div class="skillset-box">Tableau</div>
+          <div class="skillset-box">Microsoft Office Suite</div>
+          <div class="skillset-box">Google Workspace</div>
+        </div>
+
+        <h2>Expertise</h2>
+        <div class="skillset-box-container">
+          <div class="skillset-box">Querying and Data Management</div>
+          <div class="skillset-box">Experimentation and A/B Testing</div>
+          <div class="skillset-box">Data Cleaning and CSV Handling</div>
+          <div class="skillset-box">Project Management</div>
+          <div class="skillset-box">Team Management</div>
+          <div class="skillset-box">Time Management</div>
+          <div class="skillset-box">Content Creation</div>
+        </div>
+        <h2>Certifications</h2>
+        <div class="skillset-box-container">
+          <div class="skillset-box">Foundations of User Experience Design </div>
+          <div class="skillset-box">Start the UX Design Process: Empathize, Define, and Ideate</div>
+          <div class="skillset-box">SQL for Data Science</div>
+          <div class="skillset-box">Introduction to Front End Development</div>
+          <div class="skillset-box">Authorized Temporary/Substitute Teacher</div>
+          <div class="skillset-box">Level 3 Teaching English as a Foreign Language (TEFL)</div>
+        </div>
+        <h2>Language</h2>
+        <div class="skillset-box-container">
+          <div class="skillset-box">English</div>
+          <div class="skillset-box">Spanish</div>
+        </div>
       </div>
     </div>
 
-    <!-- sticky notes -->
 
     <div class="stickynote_container">
-          <div class="stickynote note1"><p><b>Hello, I'm Ash </b> and I combine data analysis with creativity! Most of my projects are focused on user-centered solutions; they're either Python, SQL, or design based. Be it, redesigning a book cover or creating this porfolio, I’m someone who is always <u>experimenting and learning how to bridge technology for the people who use it.</u></p></div>
+          <div class="stickynote note1"><p><b>Hello, I'm Ash </b> and I combine data analysis with creativity! Most of my projects are focused on user-centered solutions; they're either Python, SQL, or design based. Be it, redesigning a book cover or creating this porfolio, I’m someone who is always <u>experimenting and learning how to bring people and tech together.</u></p></div>
           <div class="stickynote note2">
             <p><mark>Some of my hobbies and interests include:</mark>
               <ul>
@@ -90,7 +214,6 @@
             oh and I love deadpan humor!</p>
           </div>
     </div>
-  <!-- call java script file -->
   <script src="jello.js"></script>
   </body>
 </html>
