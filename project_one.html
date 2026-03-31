@@ -7,7 +7,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap"
     rel="stylesheet">
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="home_style_sheet.css">
   <title>Welcome</title>
 </head>
@@ -148,7 +149,7 @@
         <div class="office_project">
           <div class="office_stamp"></div>
           <div class="office_image">
-            <img src="images/creative/ash_2.jpeg">
+            <img src="images/creative/ash_2.jpg">
           </div>
           <div class="office_details">
             <h3>Project Title: Clickbait Inspired</h3>
@@ -160,7 +161,7 @@
         <div class="office_project">
           <div class="office_stamp"></div>
           <div class="office_image">
-            <img src="images/creative/ash_1.jpeg">
+            <img src="images/creative/ash_1.jpg">
           </div>
           <div class="office_details">
             <h3>Project Title: Club Invite</h3>
@@ -171,7 +172,7 @@
         <div class="office_project">
           <div class="office_stamp"></div>
           <div class="office_image">
-            <img src="images/creative/fizz.jpeg">
+            <img src="images/creative/fizz.jpg">
             <img src="images/creative/ash_3.png">
           </div>
           <div class="office_details">
@@ -297,13 +298,13 @@
           we can discover how Netflix's production strategy and audience targeting shape its media library.</p>
         <h4>Sample code</h4>
         <code style="display: block; white-space:pre-wrap;">
-                  #change date to consistent date format
-                  dataset['date_added']=pd.to_datetime(dataset['date_added'], errors='coerce')
-                  dataset['date_added']=dataset['date_added'].dt.strftime('%Y-%m-%d')
-                  #update table with new dates
-                  dataset.to_sql('db_flix',connection,if_exists='replace',index=False)
-                  print("Table updated successfully")
-                </code>
+          #change date to consistent date format
+          dataset['date_added']=pd.to_datetime(dataset['date_added'], errors='coerce')
+          dataset['date_added']=dataset['date_added'].dt.strftime('%Y-%m-%d')
+          #update table with new dates
+          dataset.to_sql('db_flix',connection,if_exists='replace',index=False)
+          print("Table updated successfully")
+        </code>
         <h4>Sample Graph</h4>
         <code style="display: block; white-space:pre-wrap;">
           query="""
