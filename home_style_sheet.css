@@ -1,0 +1,454 @@
+/* this affects the entire document */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #EAF0E9;
+  min-height: 100vh;
+  font-family: Roboto, Helvetica, Arial, Helvetica, sans-serif;
+}
+
+/* links can be styled differently depending on what state they are in. The four links states are: 
+a:link - a normal, unvisited link
+a:visited - a link the user has visited
+a:hover - a link when the user mouses over it
+a:active - a link the moment it is clicked
+
+SOME RULES TO FOLLOW 
+a:hover MUST come after a:link and a:visited 
+a:active MUST come after a:hover */
+
+/* this is a global anchor tag that affects all links */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(67, 65, 65);
+  transition: color 0.2s ease;
+}
+
+.navbar {
+  display: flex;
+  gap: 5px;
+}
+
+.navlinks {
+  color: white;
+}
+
+.bodylinks {
+  color: #60935D;
+}
+
+.tab {
+  background-color: #7BB2D9;
+  font-size: 20px;
+  font-family: 'Courier Prime', monospace;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+  border-radius: 0px 0px 12px 12px;
+  width: 130px;
+  height: 30px;
+  transition: height 0.3s ease;
+
+}
+
+.tab:hover {
+  height: 90px;
+}
+
+.tab_reveal {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.tab:hover .tab_reveal {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+  transition-delay: 0.15s;
+
+}
+
+/* Using the div class I made so I can have more freedom editing different sections of the site */
+.jelly_text {
+  position: relative;
+  display: flex;
+  color: white;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  letter-spacing: -0.07em;
+  font-family: 'Courier Prime', monospace;
+}
+
+.banner {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: calc(8px + 2vw);
+  height: calc(220px + 2vw);
+  background: #60935D;
+  overflow: hidden;
+}
+
+.banner:hover {
+  background: #169010;
+}
+
+.banner:hover .jelly_text {
+  color: #ffffffd0;
+  ;
+}
+
+.banner:hover .jelly,
+.banner:hover .jelly_texture {
+  opacity: 1;
+}
+
+.jelly,
+.jelly_texture {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.jelly {
+  background:
+    radial-gradient(circle at 15% 25%, rgba(147, 139, 93, 0.4) 0%, rgba(147, 144, 93, 0) 60%),
+    radial-gradient(circle at 40% 85%, rgba(94, 91, 53, 0.5) 0%, rgba(94, 93, 53, 0) 60%),
+    radial-gradient(circle at 90% 25%, rgba(147, 145, 93, 0.35) 0%, rgba(147, 146, 93, 0) 60%),
+    radial-gradient(circle at 30% 20%, rgba(203, 207, 122, 0.35), transparent 45%),
+    radial-gradient(circle at 70% 70%, rgba(147, 142, 93, 0.25), transparent 55%);
+  mix-blend-mode: screen;
+}
+
+.jelly_texture {
+  background:
+    radial-gradient(circle at 30% 40%, rgba(94, 91, 53, 0.45) 0%, rgba(94, 91, 53, 0) 20%),
+    radial-gradient(circle at 60% 55%, rgba(147, 142, 93, 0.3) 0%, rgba(143, 147, 93, 0) 18%),
+    radial-gradient(circle at 75% 30%, rgba(204, 207, 122, 0.2) 0%, rgba(207, 194, 122, 0) 15%);
+  mix-blend-mode: overlay;
+}
+
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 14;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+  /*dim everything else*/
+}
+
+/* Modal Content/Box */
+.modal_content {
+  margin: 10vh auto;
+  padding: 24px;
+  width: 90%;
+  max-width: 600px;
+  min-height: 200px;
+  max-height: 80vh;
+  border-radius: 20px;
+  border: 6px solid #60935D;
+  background-color: #EAF0E9;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.218);
+  overflow-y: auto;
+  position: relative;
+}
+
+.modal_content h2 {
+  font-size: 1.4rem;
+  color: #60935D;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+}
+
+.modal_content::-webkit-scrollbar {
+  width: 10px;
+}
+
+.modal_content::-webkit-scrollbar-track {
+  background: transparent;
+  margin: 20px;
+}
+
+.modal_content::-webkit-scrollbar-thumb {
+  background: lightgray;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+
+.modal_content::-webkit-scrollbar-thumb:hover {
+  background: #60935D;
+}
+
+/* The Close Button */
+.close {
+  color: darkgray;
+  position: sticky;
+  float: right;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #60935D;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.4s ease;
+}
+
+/* about section*/
+
+.about_container {
+  display: block;
+  padding: 10px 20px;
+}
+
+/* for images */
+
+img {
+  display: inline;
+  margin: 0 auto;
+  width: auto;
+}
+
+.image_crop {
+  float: left;
+  margin: 100px 15px 15px 0px;
+  width: 15vw;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.283);
+}
+
+.image_circle {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  image-rendering: crisp-edges;
+}
+
+/*creative and technical boxes*/
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 15px;
+}
+
+.office_project {
+  position: relative;
+  background: white;
+  border: 1px solid lightgray;
+  border-top: 4px solid #60935D;
+  padding: 15px;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.04);
+}
+
+.office_stamp {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  border: 2px solid #d3504c;
+  color: #d3504c;
+  padding: 4px 8px;
+  font-family: 'Courier Prime', monospace;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  transform: rotate(6deg);
+  opacity: 0.7;
+  pointer-events: none;
+  z-index: 3;
+}
+
+.office_stamp::before {
+  content: "Internal Use Only";
+}
+
+.dim:hover {
+  filter: brightness(70%);
+  transition: filter 0.3s ease-in-out;
+}
+
+.dim:hover .office_stamp::before {
+  content: "Click For Detailed Report";
+}
+
+
+.office_image {
+  border: 1px solid lightgrey;
+  margin-bottom: 15px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.office_image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: grayscale(20%);
+}
+
+.office_details h3 {
+  font-family: 'Courier Prime', monospace;
+  font-size: 1rem;
+  color: rgb(58, 62, 62);
+  margin: 0px 0px 8px 0px;
+}
+
+.office_details p {
+  font-family: sans-serif;
+  font-size: 0.5rem;
+  color: rgb(69, 73, 73);
+  line-height: 1.5;
+  margin: 0;
+}
+
+/*skills boxes*/
+.skillset_container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-bottom: 30px;
+}
+
+.skillset_box {
+  display: flex;
+  background-color: #f5f5f5;
+  color: darkslategrey;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.174);
+  border-radius: 12px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  min-height: 45px;
+  line-height: 1.2;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/*sticky notes */
+.stickynote_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.stickynote {
+  align-items: center;
+  list-style-position: inside;
+  justify-content: center;
+  position: relative;
+  height: 288px;
+  width: 288px;
+  background-color: #FFEBA1;
+  box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  font-family: 'Courier Prime', monospace;
+}
+
+.note1 {
+  transform: rotate(1deg) translateX(-5px);
+  z-index: 2;
+  transition: transform 0.3s ease-in-out;
+}
+
+.note2 {
+  transform: rotate(-5deg) translateX(-50px) translateY(-4px);
+  z-index: 1;
+  transition: transform 0.3s ease-in-out;
+}
+
+.stickynote:hover {
+  z-index: 10;
+  transform: rotate(0deg) scale(1.25);
+}
+
+/* paper for featured projects pages*/
+
+.paper_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.paper {
+  position: relative;
+  min-height: 1100px;
+  max-width: 850px;
+  margin-top: 40px;
+  background-color: #fdfcf8;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.319);
+  padding: 80px;
+  box-sizing: border-box;
+}
+
+.paper_details {
+  margin-top: 30px;
+  line-height: 2;
+  color: rgb(69, 73, 73);
+}
+
+.paper_details h3 {
+  font-family: 'Courier Prime', monospace;
+  font-size: 1.5rem;
+  color: #60935D;
+  margin: 0px 0px 15px 0px;
+  border-bottom: 1px solid #7BB2D9;
+}
+
+.paper_details p,
+.paper_details ul {
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+
+.paper_image {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.paper_image_2 {
+  gap: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.paper_image img,
+.paper_image_2 img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  filter: grayscale(30%);
+}

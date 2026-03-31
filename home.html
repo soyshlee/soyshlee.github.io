@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- main font-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="home_style_sheet.css">
+  <!-- head is the container for metadata basically used to tell the rest what styles you want.-->
+  <!-- here you define the document title, character set, styles, scripts, and other meta information.-->
+  <!-- head often includes <title>, <style>, <meta>, <link>, <script>, and <base>.-->
+  <title>Welcome</title>
+</head>
+
+<body>
+  <!-- body contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, 
+    lists, etc. It can also support global and event attributes-->
+  <!-- the body container/tag defines the document's body. There can only be one body container-->
+
+  <!-- The <div> tag defines a division or a section in an HTML document.
+    The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+    The <div> tag is easily styled by using the class or id attribute.
+    Any sort of content can be put inside the <div> tag! -->
+
+  <!--- another way to open links in a new window (this is not contained within the main window tho)-->
+  <!--- <a onclick='window.open("pathway or link here","_blank","width=300,height=300");'>About</a></span>-->
+
+  <!-- banner and navigation tabs -->
+  <div class="banner">
+    <div class="jelly">
+      <div class="jelly_texture"></div>
+    </div>
+    <h1 class="jelly_text">the portfolio</h1>
+  </div>
+  <nav class="navbar">
+    <div class="tab">
+      <span class="tab_reveal">
+        <a href="#" class="modalLink navlinks" data-modal="aboutModal">About</a>
+      </span>
+    </div>
+    <div class="tab">
+      <span class="tab_reveal">
+        <a href="#" class="modalLink navlinks" data-modal="FeatModal">Featured</a>
+      </span>
+    </div>
+    <div class="tab">
+      <span class="tab_reveal">
+        <a href="#" class="modalLink navlinks" data-modal="CreateModal">Creative</a>
+      </span>
+    </div>
+    <div class="tab">
+      <span class="tab_reveal">
+        <a href="#" class="modalLink navlinks" data-modal="TechModal">Technical</a>
+      </span>
+    </div>
+    <div class="tab">
+      <span class="tab_reveal">
+        <a href="#" class="modalLink navlinks" data-modal="SkillsModal">Skills</a>
+      </span>
+    </div>
+  </nav>
+  </div>
+
+  <!--- modal information for each link ---->
+  <!-- about modal -->
+  <div id="aboutModal" class="modal">
+    <div class="modal_content">
+      <span class="close">&times;</span>
+      <div class="about_container">
+        <div class="image_crop">
+          <img src="images/about/me.jpg" class="image_circle">
+        </div>
+        <div class="paper_details">
+          <h3>About Me</h3>
+          <p>If you clicked the "about me" tab then my sticky-notes must not have satiated your curious wonder. Well...
+            if you haven't
+            guessed already, this portfolio is based on <i>the Office</i> (not the UK version, never the UK
+            version).<br>Why? Because
+            I wanted my portfolio to showcase who I am and since the Office built my sense of humor and love for
+            mockumentaries, I decided it
+            would be the best theme to go with! Also, this photo is my favorite photo of me. I was having a glorious
+            hair day and wearing my favorite overalls, as I picked my favorite fruit (strawberries 🍓).<br><br>
+            <b>Now enough about me.</b> Tell me about yourself... do you like bears, beets, or <i>Battlestar
+              Galatica</i>?
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Feat modal -->
+  <div id="FeatModal" class="modal">
+    <div class="modal_content">
+      <span class="close">&times;</span>
+      <!-- featured project one-->
+      <a href="project_one.html" class="bodylinks">
+        <div class="gallery">
+          <div class="office_project dim">
+            <div class="office_stamp"></div>
+            <div class="office_image">
+              <img src="images/technical/eda_1.png">
+              <img src="images/technical/eda_2.png">
+            </div>
+            <div class="office_details">
+              <h3>Project Title: Exploring Entertainment</h3>
+              <p>This analysis explores Netflix’s media catalog and uncovers patterns in genre distribution, release
+                strategies, and content priorities. </p>
+            </div>
+          </div>
+        </div>
+      </a>
+
+      <!-- featured project two-->
+      <a href="project_two.html" class="bodylinks">
+        <div class="gallery">
+          <div class="office_project dim">
+            <div class="office_stamp"></div>
+            <div class="office_image">
+              <img src="images/technical/fungi_2.png">
+              <img src="images/technical/fungi_3.png">
+              <img src="images/technical/fungi_1.png">
+            </div>
+            <div class="office_details">
+              <h3>Project Title: Game Assets</h3>
+              <p>This project involves the design and creation of 2-D game assets for a collaborative fungi inspired
+                Unity game.</p>
+            </div>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  <!-- create modal -->
+  <div id="CreateModal" class="modal">
+    <div class="modal_content">
+      <span class="close">&times;</span>
+      <div class="gallery">
+
+        <div class="office_project">
+          <div class="office_stamp"></div>
+          <div class="office_image">
+            <img src="images/creative/ash_7.png">
+            <img src="images/creative/ash_8.png">
+            <img src="images/creative/ash_9.png">
+            <img src="images/creative/ash_10.png">
+          </div>
+          <div class="office_details">
+            <h3>Project Title: App Recreation</h3>
+            <p>Recreated my most used apps with Affinity Design: a vector graphics editor and an alternative to Adobe
+              Illustrator.</p>
+          </div>
+        </div>
+
+        <div class="office_project">
+          <div class="office_stamp"></div>
+          <div class="office_image">
+            <img src="images/creative/ash_2.jpg">
+          </div>
+          <div class="office_details">
+            <h3>Project Title: Clickbait Inspired</h3>
+            <p>As social media and influencers begin to climb, I decided to practice creating click-bait inspired
+              thumbnails.</p>
+          </div>
+        </div>
+
+        <div class="office_project">
+          <div class="office_stamp"></div>
+          <div class="office_image">
+            <img src="images/creative/ash_1.jpg">
+          </div>
+          <div class="office_details">
+            <h3>Project Title: Club Invite</h3>
+            <p>Inspired by the organizations I had joined, I decided to practice marketing by designing an invite.</p>
+          </div>
+        </div>
+
+        <div class="office_project">
+          <div class="office_stamp"></div>
+          <div class="office_image">
+            <img src="images/creative/fizz.jpg">
+            <img src="images/creative/ash_3.png">
+          </div>
+          <div class="office_details">
+            <h3>Project Title: Advertisement Glow-up</h3>
+            <p>Decided to turn a regular image into a modernized advertisement. I would like to note that on the next
+              version, I plan on recoloring it to make it pop more.</p>
+          </div>
+        </div>
+
+        <div class="office_project">
+          <div class="office_stamp"></div>
+          <div class="office_image">
+            <img src="images/creative/ash_4.png">
+          </div>
+          <div class="office_details">
+            <h3>Project Title: Hello from Thailand</h3>
+            <p>A more personal project of mine, I decided to create post-cards for the places I traveled to. It's a
+              great way for me to productively reminisce.</p>
+          </div>
+        </div>
+
+        <div class="office_project">
+          <div class="office_stamp"></div>
+          <div class="office_image">
+            <img src="images/creative/ash_6.png">
+          </div>
+          <div class="office_details">
+            <h3>Project Title: Retro-esque Ticket</h3>
+            <p>I'm a big fan of movie theatres so I decided to create a piece of vector art based off that interest.</p>
+          </div>
+        </div>
+
+        <div class="office_project">
+          <div class="office_stamp"></div>
+          <div class="office_image">
+            <img src="images/creative/ash_5.png">
+          </div>
+          <div class="office_details">
+            <h3>Project Title: DiDi Movie Poster</h3>
+            <p>Designed a movie poster for one of my most liked coming-of-age movies. It's called DiDi, if you're
+              interested.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- tech modal -->
+  <div id="TechModal" class="modal">
+    <div class="modal_content">
+      <span class="close">&times;</span>
+      <div class="gallery">
+        <div class="office_project">
+          <div class="office_stamp"></div>
+          <div class="office_image">
+            <img src="">
+          </div>
+          <div class="office_details">
+            <h3>Project Title: Tableau Dashboard</h3>
+            <p>Quick summary belongs here. heheheheheh yes <a href="github" class="bodylinks">Check out my GitHub for
+                more details.</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- skills modal -->
+  <div id="SkillsModal" class="modal">
+    <div class="modal_content">
+      <span class="close">&times;</span>
+      <h2>Software</h2>
+      <div class="skillset_container">
+        <div class="skillset_box">HTML</div>
+        <div class="skillset_box">SQL</div>
+        <div class="skillset_box">Python</div>
+        <div class="skillset_box">Jupyter Notebooks</div>
+        <div class="skillset_box">Github</div>
+        <div class="skillset_box">Figma</div>
+        <div class="skillset_box">Tableau</div>
+        <div class="skillset_box">Microsoft Office Suite</div>
+        <div class="skillset_box">Google Workspace</div>
+      </div>
+
+      <h2>Expertise</h2>
+      <div class="skillset_container">
+        <div class="skillset_box">Querying and Data Management</div>
+        <div class="skillset_box">Experimentation and A/B Testing</div>
+        <div class="skillset_box">Data Cleaning and CSV Handling</div>
+        <div class="skillset_box">Project Management</div>
+        <div class="skillset_box">Team Management</div>
+        <div class="skillset_box">Time Management</div>
+        <div class="skillset_box">Content Creation</div>
+      </div>
+      <h2>Certifications</h2>
+      <div class="skillset_container">
+        <div class="skillset_box">Foundations of User Experience Design </div>
+        <div class="skillset_box">Start the UX Design Process: Empathize, Define, and Ideate</div>
+        <div class="skillset_box">SQL for Data Science</div>
+        <div class="skillset_box">Introduction to Front End Development</div>
+        <div class="skillset_box">Authorized Temporary/Substitute Teacher</div>
+        <div class="skillset_box">Level 3 Teaching English as a Foreign Language (TEFL)</div>
+      </div>
+      <h2>Language</h2>
+      <div class="skillset_container">
+        <div class="skillset_box">English</div>
+        <div class="skillset_box">Spanish</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- sticky notes -->
+  <div class="stickynote_container">
+    <div class="stickynote note1">
+      <p><b>Hello, I'm Ash </b> and I combine data analysis with creativity! Most of my projects are focused on
+        user-centered solutions; they're either Python, SQL, or design based. Be it, redesigning a book cover or
+        creating this porfolio, I’m someone who is always <u>experimenting and learning how to bring people and tech
+          together.</u></p>
+    </div>
+    <div class="stickynote note2">
+      <p><mark>My current obsessions (aka my hobbies):</mark></p><br>
+      <ul>
+        <li>Crotchet</li>
+        <li>Song Writing</li>
+        <li>Acting</li>
+        <li>Programming</li>
+        <li>Weightlifting</li>
+        <li>YouTube</li>
+      </ul><br>
+      <p>oh and I love deadpan humor!</p>
+    </div>
+  </div>
+  <script src="jello.js"></script>
+</body>
+
+</html>
