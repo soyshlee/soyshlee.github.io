@@ -12,18 +12,6 @@ body {
   min-height: 100vh;
   font-family: Roboto, Helvetica, Arial, Helvetica, sans-serif;
 }
-
-/* links can be styled differently depending on what state they are in. The four links states are: 
-a:link - a normal, unvisited link
-a:visited - a link the user has visited
-a:hover - a link when the user mouses over it
-a:active - a link the moment it is clicked
-
-SOME RULES TO FOLLOW 
-a:hover MUST come after a:link and a:visited 
-a:active MUST come after a:hover */
-
-/* this is a global anchor tag that affects all links */
 a {
   text-decoration: none;
 }
@@ -79,7 +67,6 @@ a:hover {
 
 }
 
-/* Using the div class I made so I can have more freedom editing different sections of the site */
 .jelly_text {
   position: relative;
   display: flex;
@@ -155,7 +142,7 @@ a:hover {
   /*dim everything else*/
 }
 
-/* Modal Content/Box */
+/* Modal Content_Box */
 .modal_content {
   margin: 10vh auto;
   padding: 24px;
