@@ -1,16 +1,15 @@
 # Digital Resume Inspired by _The Office_ (U.S. Version)
 ### Key Idea
-To document the process of creating a website for my personal portfolio from the ideation and planning phase through production, execution, and publishing.
+To document the website creation process from ideation and planning through production, execution, and publishing.
 
 ### Why Make This from Scratch?
-- More creative liberty
-- Nostalgic interface
-- Free 
+Although there are faster and more optimized options to host and design my website, I wanted to challenge myself on creating my own from scratch because 
+1. it give me more creative liberty as I won't be limited in color choices or layout designs,
+2. it allows me to create an interface that reminds me of pages that were once interactive and fun before everything became commercialized and minimalistic <sub>(Bebo, Myspace, Tumblr circa 2009)</sub>,
+3. and it also helps that this is <ins>free</ins> and I wouldn't have to worry about my imagination being stuck behind a paywall.
 
 ### Why _The Office_?
-- I was obsessed with this show all throughout highschool and university
-- One of the building blocks for my humor
-- Sparked my love for mockumenteries
+This show sparked my love for mockumentaries and was one of the building blocks for my humor as I was very much a #1 fan all throughout high school ~even owning a few "Shrute Farms" t-shirts~.
 
 ### Tools Used
 - Affinity Designer (Adobe Illustrator Alternative)
@@ -19,10 +18,12 @@ To document the process of creating a website for my personal portfolio from the
 - HTML, CSS, and Javascript
 
 ## First Draft (Fail)
-https://github.com/soyshlee/soyshlee.github.io/oldver/oldversion_1.png
+<img src="https://github.com/soyshlee/soyshlee.github.io/blob/main/oldver/oldversion_5.png" alt="home" style="width:45%; height:auto;"> <img src="https://github.com/soyshlee/soyshlee.github.io/blob/main/oldver/oldversion_4.png" alt="home" style="width:45%; height:auto;">
 
 ### What Was the Vision?
-Inspired by a specific bit throughout the series where the character, Jim keeps putting Dwight's office supplies in Jello.
+Inspired by a specific <i>bit</i> throughout the series where the character, Jim keeps putting Dwight's office supplies in Jello.
+
+<mark>The most memorable scene is Dwight's stapler in yellow gelatin.</mark>
 
 ### Why Did It Fail?
 1. Color Palette: The color palette wasn't evoking the feeling of being trapped in gelatin.
