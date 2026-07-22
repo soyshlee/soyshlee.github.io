@@ -1,0 +1,394 @@
+/* this affects the entire document */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2C4A70;
+  min-height: 100vh;
+  padding: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* paper container */
+.paper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f7f7f7;
+  width: min(80vw, 900px);
+  min-height: 60vh;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.408);
+  padding: 2rem;
+
+}
+
+/* logo styles */
+.title {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding-top: 2rem;
+}
+
+.title_bottom {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.title_bottom h1,
+.title_top {
+  margin: 0;
+  font-size: 6rem;
+  letter-spacing: 19px;
+  margin-top: -1.5rem;
+  color: #363636;
+}
+
+.title_top {
+  letter-spacing: 23px;
+}
+
+.inc {
+  position: absolute;
+  writing-mode: vertical-lr;
+  top: -.3rem;
+  right: -.4rem;
+  font-size: 2.5rem;
+  color: #d4d4d4;
+}
+
+.subtitle {
+  margin-top: .4rem;
+  font-size: 1.2rem;
+  letter-spacing: 16px;
+  color: #2C4A70;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* paper text box and sticky note links */
+.text_box {
+  width: 80%;
+  margin: 2rem auto 0;
+  line-height: 2;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.text_box p {
+  margin-bottom: .5rem;
+  color: #363636;
+}
+
+.text_box ul {
+  list-style-type: circle;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.text_box li {
+  margin-bottom: .25rem;
+}
+
+.stickynote {
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 40%;
+  aspect-ratio: 1/1;
+  background-color: #FFEBA1;
+  box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+  padding: .3rem;
+}
+
+.stickynote ul li {
+  font-family: "Patrick Hand SC", Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1;
+  padding-top: 20px;
+  font-size: 1.7rem;
+  list-style-type: none;
+}
+
+.stickynote a {
+  text-decoration: none;
+  padding: .5rem;
+  color: #363636;
+}
+
+.stickynote a:hover {
+  background-color: #a9d2e3;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.note_pos {
+  transform: rotate(7deg) translateX(-5px);
+  left: 23rem;
+  bottom: 15rem;
+}
+
+/* modals and decor*/
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 14;
+  justify-content: center;
+  align-items: center;
+  inset: 0;
+  overflow: auto;
+  /*dim everything else*/
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+
+/** folder modal decor **/
+
+.folder {
+  position: relative;
+  padding: 40px;
+  width: 100%;
+  max-width: 750px;
+  min-height: 450px;
+  border-radius: 20px;
+  background-color: #ffe791;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.218);
+  overflow-y: auto;
+}
+
+.crease {
+  border-left: 6px solid #f0d785;
+  height: 530px;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+}
+
+.paper_modal {
+  position: relative;
+  background: #f7f7f7;
+  border: 1px solid lightgray;
+  border-top: 4px solid #a9d2e3;
+  padding: 15px;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.04);
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 15px;
+  overflow-y: auto;
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  bottom: 20px;
+  width: 350px;
+}
+
+.folder_details h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #2C4A70;
+  margin: 25px 0px 10px 2px;
+  letter-spacing: 1.2px;
+  font-size: 1rem;
+}
+
+.folder_details p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.7rem;
+  color: #363636;
+  line-height: 1.5;
+  margin: 15px 2px 0px 2px;
+}
+
+.folder_details a:hover{
+  color:#a9d2e3;
+  transition: color .2s ease-in-out;
+}
+
+.paper_image {
+  padding: 10px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  border: 1.3px solid lightgrey;
+}
+
+.paper_image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: grayscale(20%);
+}
+
+
+.todonote {
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 30%;
+  aspect-ratio: 1/1;
+  background-color: #a9d2e3;
+  box-shadow: 6px 4px 10px rgba(0, 0, 0, 0.2);
+  padding: .3rem;
+}
+
+.todo_pos {
+  transform: rotate(-10deg);
+  left: 5%;
+  top: 80px;
+}
+
+.todo_pos p {
+  font-family: "Patrick Hand SC", Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.5;
+  font-size: 1.2rem;
+  padding: 12px;
+}
+
+
+
+/** notepad modal decor **/
+.pad_modal {
+  box-sizing: border-box;
+  padding: 24px;
+  width: 100%;
+  max-width: 500px;
+  height: 600px;
+  max-height: 80vh;
+  border-radius: 20px;
+  background-color: #f7f7f7;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.218);
+  overflow-y: auto;
+  position: relative;
+}
+
+.pad_modal h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #2C4A70;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  letter-spacing: 1.2px;
+  font-size: 1.2rem;
+  margin: 0px 0px 15px 0px;
+  border-bottom: 2px solid #a9d2e3;
+}
+
+.pad_modal p {
+  color: #363636;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+.pad_modal::-webkit-scrollbar {
+  width: 10px;
+}
+
+.pad_modal::-webkit-scrollbar-track {
+  background: transparent;
+  margin: 20px;
+}
+
+.pad_modal::-webkit-scrollbar-thumb {
+  background: lightgray;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+
+.pad_modal::-webkit-scrollbar-thumb:hover {
+  background: #a9d2e3;
+}
+
+.rings {
+  position: relative;
+}
+
+.rings .rings-img {
+  position: absolute;
+  top: -235px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 500px;
+  z-index: 16;
+}
+
+/** modal close button **/
+.close {
+  color: darkgray;
+  position: sticky;
+  float: right;
+  font-size: 25px;
+  font-weight: bold;
+  z-index: 17;
+}
+
+.close:hover,
+.close:focus {
+  color: #a9d2e3;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.4s ease;
+}
+
+/* about section*/
+.about_container {
+  display: block;
+  padding: 10px 20px;
+}
+
+/* creative section*/
+.creative_container {
+  display: block;
+  padding: 10px 20px;
+}
+
+/*skills section*/
+.skillset_container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-bottom: 30px;
+}
+
+.skillset_box {
+  display: flex;
+  color: #363636;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.174);
+  border-radius: 12px;
+  padding: 10px;
+  font-weight: 500;
+  font-size: 0.95rem;
+  min-height: 45px;
+  line-height: 1.2;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* for images */
+img {
+  display: inline;
+}
+
+.image_crop {
+  float: left;
+  margin: 8px 8px 0px 0px;
+  width: 15vw;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border: 2px solid #a9d2e3;
+}
+
+.image_shape {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  image-rendering: crisp-edges;
+}
