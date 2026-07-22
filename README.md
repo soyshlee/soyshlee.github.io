@@ -18,7 +18,7 @@ This show sparked my love for mockumentaries and was one of the building blocks 
 - HTML, CSS, and Javascript
 
 ## First Draft (Fail)
-<img src="https://github.com/soyshlee/soyshlee.github.io/blob/main/oldver/oldversion_5.png" alt="home" style="width:49%; height:auto;"> <img src="https://github.com/soyshlee/soyshlee.github.io/blob/main/oldver/oldversion_4.png" alt="home" style="width:50%; height:auto;">
+<img src="https://github.com/soyshlee/soyshlee.github.io/blob/main/oldver/oldversion_5.png" alt="home" style="width:49%; height:auto;"> <img src="https://github.com/soyshlee/soyshlee.github.io/blob/main/oldver/oldversion_4.png" alt="home" style="width:49%; height:auto;">
 
 ### What Was the Vision?
 Inspired by a specific <i>bit</i> throughout the series where the character, Jim keeps putting Dwight's office supplies in Jello.
