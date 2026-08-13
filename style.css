@@ -261,7 +261,6 @@ body {
   max-width: 500px;
   height: 600px;
   max-height: 80vh;
-  border-radius: 20px;
   background-color: #f7f7f7;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.218);
   overflow-y: auto;
@@ -296,7 +295,6 @@ body {
 
 .pad_modal::-webkit-scrollbar-thumb {
   background: lightgray;
-  border-radius: 10px;
   border: 2px solid white;
 }
 
@@ -320,8 +318,9 @@ body {
 /** modal close button **/
 .close {
   color: darkgray;
-  position: sticky;
-  float: right;
+  position: absolute;
+  top: 14px;
+  right: 14px;
   font-size: 25px;
   font-weight: bold;
   z-index: 17;
@@ -373,7 +372,9 @@ body {
 
 /* for images */
 img {
-  display: inline;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .image_crop {
